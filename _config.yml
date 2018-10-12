@@ -8,7 +8,7 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Data, Design and Society"
+title: "Data, Design and the City"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -16,7 +16,7 @@ slogan: "Learning by Developing"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "<i>Data, Design and Society</i> is an innovative course from the University of Edinburgh"
+description: "<i>Data, Design and the City</i> is an innovative course from the University of Edinburgh"
 
 # Main author of the website
 # See > authors.yml
@@ -25,7 +25,7 @@ author: ewan
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://edinburghlivinglab.github.io'
-baseurl: '/dds'
+baseurl: '/ddc'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,7 +38,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://edinburghlivinglab.github.io/dds/images/'
+urlimg: 'https://edinburghlivinglab.github.io/ddc/images/'
 
 
 # Logo size is 600x80 pixels
