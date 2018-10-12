@@ -1,0 +1,34 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+console.toolbox = [{'autosave': False,
+                    'id': 'cmd-Rbu2y8cceZT4oH8r',
+                    'io_encoding': None,
+                    'key_binding': None,
+                    'line_mode': True,
+                    'loc': u'/Users/ewan/git/dds-pages/_scripts/preprocess.py',
+                    'pseudo_tty': False,
+                    'raise_panel': True,
+                    'title': None},
+                   {'autosave': False,
+                    'id': 'cmd-PMuaVr8W0U5yR6M8',
+                    'io_encoding': None,
+                    'key_binding': None,
+                    'line_mode': True,
+                    'loc': u'/Users/ewan/git/dds-pages/_scripts/test.py',
+                    'pseudo_tty': False,
+                    'raise_panel': True,
+                    'title': None}]
+proj.directory-list = [{'dirloc': loc('.'),
+                        'excludes': (),
+                        'filter': u'*',
+                        'include_hidden': False,
+                        'recursive': True,
+                        'watch_for_changes': True}]
+proj.file-type = 'shared'
+proj.launch-config = {loc('preprocess.py'): ('project',
+        (u'../pages/prep.md -outdir .',
+         ''))}

@@ -1,0 +1,26 @@
+ - menu_name: "Credits"
+
+- name: "Icons from Entypo"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Icons"
+
+ - name: "Icons from Freepik"
+   url: "http://www.freepik.com"
+   class: "network-freepik"
+   title: "Icons from Freepik"
+
+# - name: "Built on Foundation"
+#   url: "http://foundation.zurb.com/"
+#   class: "services-newsletter"
+#   title: "Built on Foundation"
+
+# - name: "Images by Unsplash"
+#   url: "http://unsplash.com/"
+#   class: "rss-link"
+#   title: "Images by Unsplash"
+
+# - name: "Using Backstretch by Scott Robbin"
+#   url: "http://srobbin.com/jquery-plugins/backstretch/"
+#   class: "sitemap-link"
+#   title: "Using Backstretch by Scott Robbin"

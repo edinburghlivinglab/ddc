@@ -1,0 +1,34 @@
+
+
+.big-panel {
+  @include panel($bg:$ci-2,	$adjust:true);  
+}
+
+.medium-panel {
+  @include panel($bg:$ci-3,	$adjust:true, $padding:rem-calc(10));
+  width:75%;
+}
+
+.bullet-panel {
+  @include panel($bg:$ci-3,	$adjust:true, $padding:rem-calc(10));
+}
+
+.lite-panel {
+  @include panel($bg:$grey-1, $adjust:true, $padding:rem-calc(10));
+  border-style:none;
+}
+
+.lite-table {
+	@include table();
+	border: 0px;
+	background-color: $grey-1;
+	width: 100%;
+}
+
+$font-size-h6: 1.0 em;
+
+h6 {
+    font-family: $body-font-family;
+	@include panel($bg:$grey-1, $adjust:true, $padding:rem-calc(10));
+}
+

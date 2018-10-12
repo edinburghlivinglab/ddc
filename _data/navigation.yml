@@ -1,0 +1,105 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: left
+
+
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
+#
+#   Navigation to the right › side: right
+#
+
+
+- title: "Syllabus"
+  url: "/syllabus/"
+  side: right
+
+- title: "Phases"
+  url: "/project_overview/"
+  side: right
+  dropdown:
+  - title: "Project Overview"
+    url: "/project_overview/"
+  - title: "Preparation"
+    url: "/preparation/"
+  - title: "Fast Hack"
+    url: "/fast_hack/"
+  - title: "Digging Deeper"
+    url: "/digging_deeper/"
+  - title: "Slow Hack"
+    url: "/slow_hack/"
+  - title: "Reporting"
+    url: "/reporting/"
+  - title: "Success Criteria"
+    url: "/project_success/"
+
+- title: "Projects"
+  url: "/projects_2016/"
+  side: right
+ # dropdown:
+ #  - title: "Meal Deals"
+ #    url: "/meal_deals/"
+ #  - title: "Preparation"
+ #    url: "/preparation/"
+ #  - title: "Fast Hack"
+ #    url: "/fast_hack/"
+ #  - title: "Digging Deeper"
+ #    url: "/digging_deeper/"
+ #  - title: "Slow Hack"
+ #    url: "/slow_hack/"
+ #  - title: "Reporting"
+ #    url: "/reporting/"
+ #  - title: "Success Criteria"
+ #    url: "/project_success/" 
+
+- title: "Assessment"
+  url: "/assessment_overview/"
+  side: right
+  dropdown:
+  - title: "Overview"
+    url: "/assessment_overview/"
+  - title: "Assignment GP1"
+    url: "/assignment_gp1/"
+  - title: "Assignment R1"
+    url: "/assignment_r1/"
+  - title: "Assignment GP2"
+    url: "/assignment_gp2/"
+  - title: "Assignment R2"
+    url: "/assignment_r2/"   
+  - title: "Learning Outcomes"
+    url: "/learning_outcomes/"
+  # - title: "Ethics Requirements"
+  #   url: "/ethics/"
+
+
+- title: "Resources"
+  url: "/resources/"
+  side: right
+  dropdown:
+  - title: "Reading List"
+    url: "/reading_list/"
+  - title: "Templates"
+    url: "/form_templates"
+  - title: "Videos"
+    url: "/videos/"
+  - title: "Local Food Initiatives"
+    url: "/initiatives/"
+  - title: "Datasets"
+    url: "/datasets/"
+  - title: "DataStore"
+    url: "/data_store/"
+  - title: "Jupyter Notebooks"
+    url: "/jupyter/"
+
+
+- title: "Contacts"
+  url: "/contacts/"
+  side: right

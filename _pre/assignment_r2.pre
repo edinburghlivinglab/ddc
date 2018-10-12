@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Assignment R2"
+subheadline: "Individual Report"
+permalink: "/assignment_r2/"
+---
+You can get hold of the source of this file [here]({{ site.baseurl }}/course_docs/report_2_skel.md).
+
+---
+
+<#include "../course_docs/report_2_skel.md">
+

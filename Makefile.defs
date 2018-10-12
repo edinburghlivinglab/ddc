@@ -1,0 +1,3 @@
+#MD :=  projects.md prep.md fast_hack.md digging_deeper.md slow_hack.md reporting.md project_success.md
+
+MD :=  prep.md fast_hack.md digging_deeper.md slow_hack.md reporting.md
