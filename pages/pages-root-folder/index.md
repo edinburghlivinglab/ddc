@@ -46,7 +46,7 @@ title: "Course Overview"
 permalink: /index.html
 ---
 
-**Data, Design and Society** is a new sort of course that combines
+**Data, Design and the City** is a new sort of course that combines
 interdisciplinary teamwork with practice-based challenges. It is a
 collaboration between the School of Informatics, Social and Political
 Studies, and Design Informatics.
@@ -64,13 +64,13 @@ In the **Data** strand of the course, you will learn to collect,
 assess and present data as social and scientific evidence, and to use
 it as a resource for design. The **Design** element asks you to
 challenge existing practices by creating prototype social
-interventions. The **Society** strand introduces the ‘social life
+interventions. The **City** strand introduces the ‘social life
 of data’ and shows how data and design can be used to shape society
 for the better within the framework of existing social and political
 processes. The course will give you the opportunity to take your
 learning out of the classroom into the University community.
 
-**Data, Design and Society**
+**Data, Design and the City**
 ([INFR08024](https://path.is.ed.ac.uk/courses/INFR08024_SV1_SEM2)) is
 a 20pt Level 8 course. There are no prerequisites, but you should
 be prepared to ask lots of questions, to go out and talk to people, 
@@ -78,7 +78,7 @@ to work with simple data analysis tools, and to experiment with change.
 
 ## Course Handbook
 
-The information contained in these webpages constitutes the DDS course
+The information contained in these webpages constitutes the DDC course
 handbook. However, you can also get 
 [this information as a single PDF file]({{ site.baseurl }}/course_docs/handbook.pdf). 
 Note that the [week-by-week syllabus]({{ site.baseurl }}/syllabus#weekbyweek)
