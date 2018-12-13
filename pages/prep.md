@@ -20,7 +20,7 @@ do something that looks so different to a typical university course. Overall,
 we are using a "double diamond" methodology in conjunction with tools and techniques
 from design, the social sciences, and informatics.
 
-### Desinging for Change 
+### Designing for Change 
 
 In this course, we use design thinking to prepare students for periods of focused, intensive
 collaboration between experts and stakeholders to solve a
