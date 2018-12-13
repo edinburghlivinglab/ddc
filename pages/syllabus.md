@@ -9,7 +9,7 @@ permalink: "/syllabus/"
 <div class="">
  <h2>Course Times and Locations</h2>
      <p>
-         All class meetings will take place in <a href="http://www.openstreetmap.org/?mlat=55.94572&mlon=-3.18783#map=18/55.94572/-3.18783&layers=N" target="_blank">7 Bristo Square</a> (building next to Potterow). We will be based in Room 1.203. However, this room will be undergoing refurbishment in the first week of semester, so we will have to use two other rooms during that week.
+       
      </p>
  </div>
 
