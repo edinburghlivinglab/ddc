@@ -157,6 +157,7 @@ permalink: "/syllabus/"
             <td>
             Waste is Information pp. 207-225
             </td>
+            </tr>
             <tr>
                 <td rowspan="2">5</td>
                 <td>13-Feb-2019</td>
