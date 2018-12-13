@@ -49,9 +49,6 @@ permalink: "/syllabus/"
         </table>
     </div>
 
-
-
-
 <div class="t30">
 <h2><a name="weekbyweek"></a>Course Schedule</h2>
  <p>
