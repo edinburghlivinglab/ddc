@@ -8,7 +8,7 @@ permalink: "/slow_hack/"
 
 ## Key Dates
 
-**Last day for data collection**: Friday 11th March 2016   
+**Last day for data collection**: Friday 15th March 2019   
 **PD activity with stakeholders**: your team must schedule this between 24th February 24th and 11th March 
 
 ## Description
