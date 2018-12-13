@@ -152,11 +152,7 @@ permalink: "/syllabus/"
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
                 <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
                 </td>
-                <td>&nbsp;</td>
-            </td>
-            <td>
-            Waste is Information pp. 207-225
-            </td>
+                <td>Waste is Information pp. 207-225</td>
             </tr>
             <tr>
                 <td rowspan="2">5</td>
