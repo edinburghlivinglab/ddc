@@ -101,7 +101,7 @@ permalink: "/syllabus/"
                      
                 </td>
                 <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow-Chapter 1</a>
+                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow-Chapter 1</a><br/><a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
                 </td>
             </tr>
             <tr>
@@ -115,13 +115,13 @@ permalink: "/syllabus/"
                 <td rowspan="2" valign="middle">
                     <p class="teaser"><a href="{{ site.baseurl }}/fast_hack/">Fast Hack</a></p>
                 </td>
-                <td>27-Jan-2016</td>
+                <td>30-Jan-2019</td>
                 <td>Fieldwork</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>29-Jan-2016</td>
+                <td>01-Feb-2019</td>
                 <td>Team presentations</td>
                 <td><a href="{{ site.baseurl }}/slides/week3-2.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
@@ -134,12 +134,16 @@ permalink: "/syllabus/"
                 <td>03-Feb-2016</td>
                 <td>Intro to Data &amp; Focus Groups</td>
                 <td>
-                <a href="{{ site.baseurl }}/slides/week4-1.html" target="_blank">Slides 1</a><br/>
+                <a href="{{ site.baseurl }}/slides/NAME" target="_blank">NAME</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
                 </td>
+               
+                <td>
+                Waste is Information pp. 27-53
+                 </td>
             </tr>
             <tr>
                 <td>05-Feb-2016</td>
