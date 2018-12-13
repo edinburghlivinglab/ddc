@@ -80,7 +80,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>16-Jan-2019</td>
                 <td>Course Overview</td>
-                <td><a href="{{ site.baseurl }}/slides/week1-1.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -90,7 +90,8 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
             
                 </td>
-                <td>&nbsp;</td>
+                <td>a href=https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">UK Illegal Plastics Dumping<a>
+</td>
             </tr>
             <tr>
                 <td rowspan="2">2</td>
