@@ -147,7 +147,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>05-Feb-2016</td>
-                <td>Data management with DataStore &amp; team tutorials</td>
+                <td>Data management and team tutorials</td>
                 <td>
                 <a href="{{ site.baseurl }}/slides/week4-2.html" target="_blank">Slides</a><br/>
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
@@ -155,6 +155,9 @@ permalink: "/syllabus/"
                 </td>
                 <td>&nbsp;</td>
             </tr>
+            <td>
+                Waste is Information pp. 207-225.
+                 </td>
             <tr>
                 <td rowspan="2">5</td>
                 <td>10-Feb-2016</td>
