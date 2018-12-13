@@ -52,7 +52,7 @@ permalink: "/syllabus/"
 <div class="t30">
 <h2><a name="weekbyweek"></a>Course Schedule</h2>
  <p>
- Unlike many standard pre-Honours courses at the University, <i>Data, Design and Society</i> (DDS) will be organised around team-based projects. The project work will be broken down into five <b>phases</b>, which are indicated in the table below. 
+ Unlike many standard courses at the University, <i>Data, Design and the City</i> (DDC) will be organised around team-based projects. The project work will be broken down into five <b>phases</b>, which are indicated in the table below. 
  The structure of the projects is described in more detail in the <a href="{{ site.baseurl }}/project_overview/">Project Overview</a>.
 </p>
 
@@ -78,26 +78,26 @@ permalink: "/syllabus/"
                 <td rowspan="4" valign="middle" bgcolor="#EFC94C">
                     <p class="teaser"><a href="{{ site.baseurl }}/preparation/">Preparation</a></p>
                 </td>
-                <td>13-Jan-2016</td>
+                <td>16-Jan-2019</td>
                 <td>Course Overview</td>
                 <td><a href="{{ site.baseurl }}/slides/week1-1.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>15-Jan-2016</td>
-                <td>Investigating food issues</td>
-                <td><a href="{{ site.baseurl }}/slides/week1-2.html" target="_blank">Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/alexis_heeren.pdf" target="_blank">Heeren Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/hassan_waheed.pdf" target="_blank">Waheed Slides</a>
+                <td>18-Jan-2019</td>
+                <td>Investigating recycling, upcycling, and the circular economy</td>
+                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
+            
                 </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">2</td>
-                <td>20-Jan-2016</td>
+                <td>23-Jan-2019</td>
                 <td>Design thinking in the field</td>
-                <td><a href="{{ site.baseurl }}/slides/week2-1.html" target="_blank">Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/cat_magill_field.pdf" target="_blank">Magill Slides</a>
+                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a><br/>
+                     
                 </td>
                 <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
                 <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a>
