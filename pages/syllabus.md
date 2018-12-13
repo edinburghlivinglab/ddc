@@ -26,28 +26,26 @@ permalink: "/syllabus/"
         </table>
     </div>
     <div class="small-12 large-6 text-center columns">
-        <table>
-            <caption>Class Locations</caption>
+         <table>
+             <caption>Class Locations</caption>
              <tr>
-                <td>All Friday classes</td>
-                <td>Medical School 01M.469 Room 12, Doorway 3</td>
-            </tr><tr>
-                <td>Wednesday, 30th January 2016</td>
-                <td>Rm 7 George Square S.1</td>
-            </tr>
-            <tr>
-                <td>Wednesday 20th February & Wednesday 13th March</td>
-                <td>Lister Learning and Teaching Centre 1.3</td>
-            </tr>
-            <tr>
-                <td>All other class meetings</td>
-                <td>Appleton Tower 2.14</td>
-                <tr>
-                <td>Wednesday, 13th January 2016</td>
-                <td>7 Bristo Square, Lecture Theatre 5</td>
-            </tr>
-        </table>
-    </div>
+                 <td>Wednesday, 13th January 2016</td>
+                 <td>7 Bristo Square, Lecture Theatre 5</td>
+             </tr>
+             <tr>
+                 <td>Friday, 15th January 2016</td>
+                 <td>7 Bristo Square, Lecture Theatre 1</td>
+             </tr>
+              <tr>
+                 <td>Wednesday, 23rd March 2016</td>
+                 <td>7 Bristo Square, Lecture Theatre 4 (G.15)</td>
+             </tr>
+             <tr>
+                 <td>All other class meetings</td>
+                 <td>7 Bristo Square, Room 1.203</td>
+             </tr>
+         </table>
+     </div>
 
 <div class="t30">
 <h2><a name="weekbyweek"></a>Course Schedule</h2>
