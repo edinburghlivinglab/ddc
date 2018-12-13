@@ -167,7 +167,7 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>12-Feb-2016</td>
+                <td>15-Feb-2019</td>
                 <td>Focus group findings</td>
                 <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">    Slides</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/analysis_session_instructions.pdf" target="_blank">FG Analysis Guide</a>
@@ -177,8 +177,8 @@ permalink: "/syllabus/"
             <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td>19-Feb-2016</td>
-                <td>Innovative Learning Week</td>
+                <td>20-Feb-2019</td>
+                <td>Festival of Learning</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
@@ -187,20 +187,20 @@ permalink: "/syllabus/"
                 <td rowspan="6" valign="middle" bgcolor="#EFC94C">
                     <p class="teaser"><a href="{{ site.baseurl }}/slow_hack/">Slow Hack</a></p>
                 </td>
-                <td>24-Feb-2016</td>
+                <td>27-Feb-2019</td>
                 <td>Participatory Design</td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>26-Feb-2016</td>
+                <td>01-Mar-2019</td>
                 <td>Finding and using existing data</td>
-                <td><a href="{{ site.baseurl }}/slides/week6-1.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">7</td>
-                <td>2-Mar-2016</td>
+                <td>06-Mar-2019</td>
                 <td>Data Visualisation</td>
                 <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a><br/>
                     <a href="https://infoactive.co/data-design/ch14.html">Anatomy of a Graphic</a>
@@ -208,23 +208,23 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>4-Mar-2016</td>
+                <td>8-Mar-2019</td>
                 <td>Tutorials / Data surgeries</td>
-                <td><a href="{{ site.baseurl }}/slides/week7-2.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
             </tr>
             <tr>
                 <td rowspan="2">8</td>
-                <td>09-Mar-2016</td>
+                <td>13-Mar-2019</td>
                 <td>Data Visualisation and Advocacy</td>
-                <td><a href="{{ site.baseurl }}/slides/week8-1.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
             </tr>
             <tr>
-                <td>11-Mar-2016</td>
+                <td>15-Mar-2019</td>
                 <td>Tutorials / Data surgeries</td>
-                <td><a href="{{ site.baseurl }}/slides/week8-2.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -232,26 +232,26 @@ permalink: "/syllabus/"
                 <td rowspan="4" valign="middle" bgcolor="#FFF">
                     <p class="teaser"><a href="{{ site.baseurl }}/reporting/">Reporting</a></p>
                 </td>
-                <td>16-Mar-2016</td>
+                <td>20-Mar-2019</td>
                 <td>Dry-run presentations, peer feedback</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>18-Mar-2016</td>
+                <td>22-Mar-2019</td>
                 <td>Dry-run presentations, peer feedback</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">10</td>
-                <td>23-Mar-2016</td>
+                <td>27-Mar-2019</td>
                 <td>Final Team Presentations</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>25-Mar-2016</td>
+                <td>29-Mar-2019</td>
                 <td>Briefing on Final Report</td>
                 <td><a href="{{ site.baseurl }}/slides/week10-2.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
