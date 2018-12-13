@@ -101,7 +101,7 @@ permalink: "/syllabus/"
                      
                 </td>
                 <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow-Chapter 1</a><br/><a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
+                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow-Ch. 1</a><br/><a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
                 </td>
             </tr>
             <tr>
