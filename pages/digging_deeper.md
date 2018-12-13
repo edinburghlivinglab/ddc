@@ -9,7 +9,7 @@ permalink: "/digging_deeper/"
 
 ## Key Dates
 
-**Stakeholder focus groups**: to be scheduled in week commencing 8th February 2016  
+**Stakeholder focus groups**: to be scheduled in week commencing 11th February 2016  
 **Fast Hack individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 8th February 2016   
 **Innovative Learning Week (no class)**: week commencing 15th February 2016
 
