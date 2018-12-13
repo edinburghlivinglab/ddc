@@ -145,23 +145,23 @@ permalink: "/syllabus/"
                 </td>
             </tr>
             <tr>
-                <td>05-Feb-2016</td>
+                <td>08-Feb-2019</td>
                 <td>Data management and team tutorials</td>
                 <td>
-                <a href="{{ site.baseurl }}/slides/week4-2.html" target="_blank">Slides</a><br/>
+                <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
                 <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
                 </td>
                 <td>&nbsp;</td>
-            </tr>
+            </td>
             <td>
-                Waste is Information pp. 207-225.
-                 </td>
+            Waste is Information pp. 207-225
+            </td>
             <tr>
                 <td rowspan="2">5</td>
-                <td>10-Feb-2016</td>
-                <td>Preparing for the Slow Hack; ISM and Models of Social Change</td>
-                <td><a href="{{ site.baseurl }}/slides/week5-1.html" target="_blank">Slides</a><br/>
+                <td>13-Feb-2019</td>
+                <td>Preparing for the Development phase; ISM and Models of Social Change</td>
+                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
                 </td>
                 <td>&nbsp;</td>
