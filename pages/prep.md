@@ -20,7 +20,7 @@ do something that looks so different to a typical university course. Overall,
 we are using a "double diamond" methodology in conjunction with tools and techniques
 from design, the social sciences, and informatics.
 
-### What is design thinking? 
+### Desinging for Change 
 
 In this course, we use design thinking to prepare students for periods of focused, intensive
 collaboration between experts and stakeholders to solve a
@@ -28,7 +28,7 @@ particular problem around the circular economy. We take inspiration from the not
 
 *You'll be working with people you might never have met before, bouncing ideas off one another and building on what bounces back. And it's not just talking&mdash;you are here to **turn your ideas into a concrete design or plan of action which you or somebody else might want to make real**. Perhaps it will be a service, a physical device, an initiative, a network, or something no-one has thought of yet&mdash;can you describe and plan it in a way that someone could go out and make it real, knowing what resources they would need, what they should do, and who they should talk to?  That's the challenge of the Jam.*
 
-As part of the DDS sprint method, you will work in small interdisciplinary
+As part of the DDC participatory design method, you will work in small interdisciplinary
 teams, and are required to involve community stakeholders in your project at
 several points during the course. All teams will be presenting to one another
 and giving each other feedback throughout the course. Part of the point of a
