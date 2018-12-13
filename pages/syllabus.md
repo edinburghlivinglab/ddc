@@ -90,7 +90,7 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
             
                 </td>
-                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">UK Illegal Plastics Dumping</a>
+                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a>
 </td>
             </tr>
             <tr>
@@ -101,11 +101,11 @@ permalink: "/syllabus/"
                      
                 </td>
                 <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a>
+                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow-Chapter 1</a>
                 </td>
             </tr>
             <tr>
-                <td>22-Jan-2016</td>
+                <td>25-Jan-2019</td>
                 <td>Research ethics</td>
                 <td><a href="{{ site.baseurl }}/course_docs/Research-ethics_DDS_2016_web-version_final.pdf" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
