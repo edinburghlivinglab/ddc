@@ -140,10 +140,9 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
                 </td>
-               
                 <td>
                 Waste is Information pp. 27-53
-                 </td>
+                </td>
             </tr>
             <tr>
                 <td>05-Feb-2016</td>
