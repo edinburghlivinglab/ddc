@@ -31,20 +31,20 @@ permalink: "/syllabus/"
          <table>
              <caption>Class Locations</caption>
              <tr>
-                 <td>Wednesday, 13th January 2016</td>
-                 <td>7 Bristo Square, Lecture Theatre 5</td>
+                 <td>Every Friday</td>
+                 <td>Medical School 01M.469 Room 12, Doorway 3</td>
              </tr>
              <tr>
-                 <td>Friday, 15th January 2016</td>
-                 <td>7 Bristo Square, Lecture Theatre 1</td>
+                 <td>Wednesday, 30th January 2019</td>
+                 <td>Rm 7 George Square S.1</td>
              </tr>
               <tr>
-                 <td>Wednesday, 23rd March 2016</td>
-                 <td>7 Bristo Square, Lecture Theatre 4 (G.15)</td>
+                 <td>Wednesday, 20th February & Wednesday 13th March 2019</td>
+                 <td>Lister Learning and Teaching Centre 1.3</td>
              </tr>
              <tr>
-                 <td>All other class meetings</td>
-                 <td>7 Bristo Square, Room 1.203</td>
+                 <td>All other Wednesday class meetings</td>
+                 <td>Appleton Tower 2.14</td>
              </tr>
          </table>
      </div>
