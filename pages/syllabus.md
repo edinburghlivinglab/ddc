@@ -190,7 +190,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>27-Feb-2019</td>
                 <td>Participatory Design</td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
