@@ -90,7 +90,7 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
             
                 </td>
-                <td>a href=https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">UK Illegal Plastics Dumping<a>
+                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">UK Illegal Plastics Dumping<a>
 </td>
             </tr>
             <tr>
