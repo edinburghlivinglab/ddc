@@ -26,18 +26,17 @@ to make better use of valuable products and materials -
 changing the way they are produced and managed to have
 less impact on finite natural resources, and create greater
 economic benefit.
-<p>
+
 The ultimate goal of a circular economy is to keep products
 and materials circulating in a high-value state of use for as
 long as possible and maximise resources.
-<p>
+
 This is achieved by designing products smartly with their
 whole life cycle in mind, re-using and repairing to extend
 their useful life, and then when their life is deemed over,
 remanufacturing to create new products from old" (<a href="https://www.zerowastescotland.org.uk">Zero Waste Scotland</a>)
-<p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zCRKvDyyHmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>
 
 The Edinburgh Chamber of Commerce, the City of Edinburgh Council, the University and many other organistions in the city are currently attempting to develop strategies and and processes for that fullfil the circular economy goals. You can read a recent report on opportunities in the city supported by a national organistion Zero Waste Scotland.
 The report <a href="https://www.zerowastescotland.org.uk/sites/default/files/Circular%20Economy%20opportunities%20Edinburgh%202018.pdf">Circular Economy Opportunities Edinburgh</a>
@@ -65,12 +64,11 @@ In order to narrow down the scope of what you do, you have the opportunity to wo
     </div>
 </div>
 
-
 Your project work will be divided into five phases over the course of the
 semester. Descriptions of the phases can be found by following the links
 below:
 
-1. [Preparation]({{ site.baseurl }}/preparation
+1. [Preparation]({{ site.baseurl }}/preparation)
 2. [Discovery Sprint]({{ site.baseurl }}/sprint)
 3. [Digging Deeper]({{ site.baseurl }}/digging_deeper)
 4. [Development]({{ site.baseurl }}/slow_hack)
