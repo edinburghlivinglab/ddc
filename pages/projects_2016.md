@@ -17,7 +17,7 @@ permalink: "/projects_2016/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1"> 
 
-The DDS teams gave presentations on their projects on 23 March 2016. You can read all about the event in [Data, Design and Society &mdash; Final Presentions](http://nicolaosborne.blogs.edina.ac.uk/2016/03/23/data-design-society-final-presentations/) by [Nicola Osborne](http://nicolaosborne.blogs.edina.ac.uk/about/).
+This page displays examples of presentations given by students of the 2016 Data, Design, and Society course (which this course is modeled on). Students were designing projects around the theme of 'food waste and sustainability' at the University of Edinburgh. You can read all about the event, which took place on 23 March 2016, in [Data, Design and Society &mdash; Final Presentions](http://nicolaosborne.blogs.edina.ac.uk/2016/03/23/data-design-society-final-presentations/) by [Nicola Osborne](http://nicolaosborne.blogs.edina.ac.uk/about/).
 
 ## Team 1: Meal Deals
 
@@ -102,7 +102,7 @@ The DDS teams gave presentations on their projects on 23 March 2016. You can rea
 
 ## Team 6: Save the Cups!
 
-At the University of Edinburgh, an estimated 1 million coffee cups are going to landfill every year: a staggering number. In our project, we looked for ways to reduce the amount of waste caused this way. We decided to design posters that would boost the University’s current Keepcup scheme –-- if you bring a University of Edinburgh-branded Keepcup to one of the University Cafés, you receive a 20p discount on your coffee. <a href="{{ site.baseurl }}/team6_summary/"><strong>Read More &gt;</strong></a>
+At the University of Edinburgh, an estimated 1 million coffee cups are going to landfill every year: a staggering number. In our project, we looked for ways to reduce the amount of waste caused this way. We decided to design posters that would boost the University’s current Keepcup scheme –-- if you bring a University of Edinburgh-branded Keepcup to one of the University Cafés, you receive a 20p discount on your coffee. <a href="{{ site.baseurl }}/team6_summary/"><strong>Read More &gt;</strong></a>
 
 <div class="panel">
   <h5>Team Members</h5>
@@ -131,7 +131,7 @@ At the University of Edinburgh, an estimated 1 million coffee cups are going to 
     <li>Madison Weigand (Coordinator)</li>
     <li>Madeleine Boyle</li>
     <li>Akshay Chandiramani</li>
-    <li>Ajda Remškar</li>
+    <li>Ajda Remškar</li>
   </ul>
 
   <a class="button small" href="{{ site.baseurl }}/course_docs/7_Good_Eats.pdf" target="_blank">Project Slides</a>
