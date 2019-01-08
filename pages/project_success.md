@@ -4,11 +4,10 @@ title: "What Counts as Success?"
 permalink: "/project_success/"
 ---
 
-Success in DDS is not about making a certain type of "thing", using
+Success in DDC is not about making a certain type of "thing", using
 a certain amount of  technology, or getting certain results. It is almost
 entirely about your team participating in and reflecting on different parts of
-a design process, as you develop a potential solution to a problem.  Food and
-sustainability is a large and complex issue that doesn't admit easy solutions,
+a design process, as you develop a potential solution to a problem. Recycling, Upcycling and the Circular Economy are large and complex issues that doen't admit easy solutions,
 let alone in one semester. Although much of our education encourages us to
 find the right answer, making the transition to a more sustainable food system
 isn't that kind of problem &mdash; there is no right answer. Instead, we are
@@ -24,15 +23,15 @@ What does matter is that you can show what you have learned from the outcomes
 and that you can show that you have thought carefully about the methods that
 you adopted.
 
-Below, we spell out what your team should achieve in order for your project to count as successful for DDS.
+Below, we spell out what your team should achieve in order for your project to count as successful for DDC.
 
-###### Explore a sub-theme of food and sustainability issues at the University and propose a design-based solution to a current question or problem
+###### Explore a sub-theme of circular economy and sustainability issues at the city level and propose a design-based solution to a current question or problem
 
 
-1. Over the course of the project, identify a clear question or problem within one DDS 
+1. Over the course of the project, identify a clear question or problem within one DDC 
 sub-theme and propose an intervention to solve the problem or answer the question. 
 
-2. Using information from the world (e.g. stakeholder involvement, existing data, observation), be able to explain the current situation at the University with relation to the sub-theme and 
+2. Using information from the world (e.g. stakeholder involvement, existing data, observation), be able to explain the current situation in Edinburgh with relation to the sub-theme and 
 problem, and from that information identify a potential problem or question on which to focus your 
 project.
 
@@ -46,15 +45,14 @@ Relates to learning objectives:
 
 ###### Effectively communicate your problem and design idea
 
-1. Be able to explain your problem and design intervention in a way that a general (non-DDS) audience 
+1. Be able to explain your problem and design intervention in a way that a general (non-DDC) audience 
 would be able to understand, and convince the audience that the design may be able to answer the 
 team's particular question or solve the problem.
 
 2. Be able to show that you have used two types of required data in the project, and have analysed and 
 presented them in an appropriate and relevant way that supports your design idea.
 
-3. Show an attempt to connect the group's problem choice and final design back to wider food and 
-sustainability issues and policies (e.g. University and EUSA policy).
+3. Show an attempt to connect the group's problem choice and final design back to wider circular economy issues and policies (e.g. University and City Chamber).
 
 Relates to learning objectives:
 
@@ -100,13 +98,13 @@ Relates to learning objectives:
 
 Having a successful project does **not** depend on:
 
-1. Pleasing DDS staff members and only choosing options or methods you think
+1. Pleasing DDC staff members and only choosing options or methods you think
 they like! The  important thing is that your team can give a good explanation
 of what you have done, and why,  and how. It is **your** project, and you have
 the final ownership and responsibility for it.
 
 2. Having "good" or "significant" results, or testing your final design with
-lots of people. DDS  projects are intended to be small. You will have limited
+lots of people. DDC  projects are intended to be small. You will have limited
 time to test your final design. This is OK. Much more important is being able
 to discuss and use the information  that you do have, and to reflect on your
 design.
