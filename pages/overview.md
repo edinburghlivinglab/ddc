@@ -76,51 +76,36 @@ below:
 4. [Development]({{ site.baseurl }}/slow_hack)
 5. [Reporting]({{ site.baseurl }}/reporting)
 	
-	## Design and Design Methods
+## Design and Design Methods
 	
-	The core of a DDS project is closely related to how we think about design.
-	The core of a DDC project is closely related to how we think about design.
-	Here, design is about the processes of identifying and solving problems, often
-	with input from other people affected by those problems, and often by trial
-	and error. We adopt the [broad definition of design by Herbert Simon](https://
-en.wikiquote.org/wiki/Herbert_A._Simon#The_Sciences_of_the_Artificial.2C_1969);and then developing "interventions" as
-	experiments to see how we can change the current situation. In DDS, we will
-	use [participatory
-	design](https://en.wikipedia.org/wiki/Participatory_design); this is a design
-	process which aims at involving all stakeholders (e.g., students, teaching
-	staff, catering staff) in defining problems, helping focus on solutions, and
-	process which aims at involving all stakeholders (e.g., residents, firms, businesses, students, policy officers) in defining problems, helping focus on solutions, and
-	evaluating the effectiveness of interventions.
+The core of a DDC project is closely related to how we think about design.
+Here, design is about the processes of identifying and solving problems, often
+with input from other people affected by those problems, and often by trial
+and error. We adopt the [broad definition of design by Herbert Simon](https://
+en.wikiquote.org/wiki/Herbert_A._Simon#The_Sciences_of_the_Artificial.2C_1969); namely "devising courses of action aimed at changing existing situations into preferred ones".
+<p>
+**Design methods** are a form of exploring the world, often via trial and error: considering options—even options that sound strange, uncomfortable or impossible—and then developing "interventions" as experiments to see how we can change the current situation. In DDS, we will use [participatory design](https://en.wikipedia.org/wiki/Participatory_design); this is a design process which aims at involving all stakeholders (e.g., residents, firms, businesses, students, policy officers) in defining problems, helping focus on solutions, and evaluating the effectiveness of interventions. Design, as a discipline and a collection of processes, has no requirement to use technology. There is also no requirement to build physical or digital artifacts. Design may be mostly about ideas, and imagining how something could potentially work very differently than it does now. Many designs may involve technology, or make physical objects, but only where this seems appropriate for the problem at hand. You may be designing a "service", an awareness raising campaign, and policy proposal or a data collection programme. 
+<p>
 	
-	Design, as a discipline and a collection of processes, has no requirement to
-	use technology. There is also no requirement to build physical or digital
-	artifacts. Design may be mostly about ideas, and imagining how something could
-	potentially work very differently than it does now. Many designs may involve
-	technology, or make physical objects, but only where this seems appropriate
-	for the problem at hand.
-	for the problem at hand. You may be designing a "service", an awareness raising 
-	campaign, and policy proposal or a data collection programme.
-
 ## Data
 
 Data plays an important role in our approach to design. First, we need to
-	**understand** "the existing situation", and we use data as an essential tool
-	to reach this understanding. Second,  in order to **evaluate** the
-	effectiveness of an intervention, we need to collect data that will helps us measure this.
-	Data includes information that tells us about organisations, things, places, people, processes and practices and their relationships.
+**understand** "the existing situation", and we use data as an essential tool
+to reach this understanding. Second,  in order to **evaluate** the
+effectiveness of an intervention, we need to collect data that will helps us measure this.
+Data includes information that tells us about organisations, things, places, people, processes and practices and their relationships.
 	
-	[What is Data?](https://github.com/edinburghlivinglab/dds-notebooks/blob/master/notebooks/what_is_data.ipynb) 
-	gives a quick overview of different kinds of data that we will use in the
-	course. One important distinction is between subjective and objective
-	data. Although it's hard to give a completely watertight definition,
-	subjective data will involve people's thoughts, emotions and values, while
-	objective data is based on observations of physical phenomena. 
-	objective data is based on observations of physical phenomena. The collection of both tyes of data 
-	requires tested 'instruments' - questionnaires, participant samples, technical devices, group discussions,
-	administrative record keeping methods, outputs of models etc, and using this to create evidence for design, knowledge, 
-	building relationships, or promoting an idea or course of action.
+[What is Data?](https://github.com/edinburghlivinglab/dds-notebooks/blob/master/notebooks/what_is_data.ipynb) 
+gives a quick overview of different kinds of data that we will use in the
+course. One important distinction is between subjective and objective
+data. Although it's hard to give a completely watertight definition,
+subjective data will involve people's thoughts, emotions and values, while
+objective data is based on observations of physical phenomena. 
+objective data is based on observations of physical phenomena. The collection of both tyes of data 
+requires tested 'instruments' - questionnaires, participant samples, technical devices, group discussions,
+administrative record keeping methods, outputs of models etc, and using this to create evidence for design, knowledge, 
+building relationships, or promoting an idea or course of action.
 	
-
 ### <a name="two_kinds_of_data"></a>Two kinds of data {#two_kinds_of_data}
 
 As part of your
