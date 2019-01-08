@@ -21,7 +21,7 @@ permalink: "/project_overview/"
 
 The **theme** of the course this year is Reuse, Recycling and the Circular Economy in Edinburgh &mdash; how can we make the production, consumption and disposal of materials within the the city  more sustainable?
 
-"A circular economy is one where systems are designed
+> "A circular economy is one where systems are designed
 to make better use of valuable products and materials -
 changing the way they are produced and managed to have
 less impact on finite natural resources, and create greater
