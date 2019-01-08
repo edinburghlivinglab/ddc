@@ -21,14 +21,14 @@ permalink: /learning_outcomes/
     <div class="small-3 large-3 columns">
         <div class="bullet-panel">
             <p>
-                <a name="interventions"></a>LO1:
-                <br/>Interventions
+                <a name="data"></a>LO1:
+                <br/>Data
             </p>
         </div>
     </div>
     <div class="small-9 large-9 columns">
         <div class="big-panel">
-            <p class="teaser">Identify and apply relevant strategies for data collection and related prototype 'interventions' which address the interests and needs of a specified community of stakeholders.</p>
+            <p class="teaser">Demonstrate discerning understanding of the cultural role that data and evidence plays in society based in reading relevant literature from Science, Technology, and Innovation Studies.</p>
         </div>
     </div>
 </div>
@@ -37,14 +37,14 @@ permalink: /learning_outcomes/
     <div class="small-3 large-3 columns">
         <div class="bullet-panel">
             <p>
-                <a name="data"></a>LO2:
-                <br/>Data
+                <a name="ethics"></a>LO2:
+                <br/>Ethics
             </p>
         </div>
     </div>
     <div class="small-9 large-9 columns">
         <div class="big-panel">
-            <p class="teaser">Interpret and evaluate data in a way that demonstrates its relevance to selected communication and/or policy objectives.</p>
+            <p class="teaser">Clearly show knowledge and understanding of the ethical dimensions that arise from data collection and use.</p>
         </div>
     </div>
 </div>
@@ -53,18 +53,34 @@ permalink: /learning_outcomes/
     <div class="small-3 large-3 columns">
         <div class="bullet-panel">
             <p>
-                <a name="communication"></a>LO3:
+                <a name="interventions"></a>LO3:
+                <br/>Interventions
+            </p>
+        </div>
+    </div>
+    <div class="small-9 large-9 columns">
+        <div class="big-panel">
+            <p class="teaser">Use a range of approaches for data collection (machine sourced, subjective, quantitative and qualitative surveys, public records, open data, etc) for proposing evidence-based solutions.</p>
+        </div>
+    </div>
+</div>
+<!-- LO4 -->
+<div class="row">
+    <div class="small-3 large-3 columns">
+        <div class="bullet-panel">
+            <p>
+                <a name="communication"></a>LO4:
                 <br/>Communication
             </p>
         </div>
     </div>
     <div class="small-9 large-9 columns">
         <div class="big-panel">
-            <p class="teaser">Synthesize and communicate the information from two or more datasets using appropriate analytic, presentation and visualisation techniques.</p>
+            <p class="teaser">Demonstrate understanding and awareness of various visualisation techniques and how they can form evidence useful for communicating ideas.</p>
         </div>
     </div>
 </div>
-<!-- LO4 -->
+<!-- LO5 -->
 <div class="row">
     <div class="small-3 large-3 columns">
         <div class="bullet-panel">
@@ -76,11 +92,10 @@ permalink: /learning_outcomes/
     </div>
     <div class="small-9 large-9 columns">
         <div class="big-panel">
-            <p class="teaser">Demonstrate an ability to work in an interdisciplinary team and to act in a professional manner</p>
+            <p class="teaser">Understand how to work alongside other students by using the basic practices of participative design, especially in an urban context, towards a group-based project.</p>
         </div>
     </div>
 </div>
-
 
 
 
