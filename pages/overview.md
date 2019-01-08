@@ -69,14 +69,12 @@ In order to narrow down the scope of what you do, you have the opportunity to wo
 Your project work will be divided into five phases over the course of the
 semester. Descriptions of the phases can be found by following the links
 below:
-	
-	1. [Preparation]({{ site.baseurl }}/preparation)
-	2. [Fast Hack]({{ site.baseurl }}/fast_hack)
-	2. [Discovery Sprint]({{ site.baseurl }}/sprint)
-	3. [Digging Deeper]({{ site.baseurl }}/digging_deeper)
-	4. [Slow Hack]({{ site.baseurl }}/slow_hack)
-	4. [Development]({{ site.baseurl }}/slow_hack)
-	5. [Reporting]({{ site.baseurl }}/reporting)
+
+1. [Preparation]({{ site.baseurl }}/preparation
+2. [Discovery Sprint]({{ site.baseurl }}/sprint)
+3. [Digging Deeper]({{ site.baseurl }}/digging_deeper)
+4. [Development]({{ site.baseurl }}/slow_hack)
+5. [Reporting]({{ site.baseurl }}/reporting)
 	
 	## Design and Design Methods
 	
