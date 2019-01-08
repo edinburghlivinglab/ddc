@@ -122,7 +122,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>01-Feb-2019</td>
-                <td>Team presentations</td>
+                <td>Fieldwork and Presentation Prep</td>
                 <td><a href="{{ site.baseurl }}/slides/week3-2.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
@@ -131,8 +131,8 @@ permalink: "/syllabus/"
                 <td rowspan="4" valign="middle" bgcolor="#EFC94C">
                     <p class="teaser"><a href="{{ site.baseurl }}/digging_deeper/">Digging Deeper</a></p>
                 </td>
-                <td>03-Feb-2016</td>
-                <td>Intro to Data &amp; Focus Groups</td>
+                <td>06-Feb-2019</td>
+                <td>Team Presentations</td>
                 <td>
                 <a href="{{ site.baseurl }}/slides/NAME" target="_blank">NAME</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
@@ -146,7 +146,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>08-Feb-2019</td>
-                <td>Data management and team tutorials</td>
+                <td>Intro to Data &amp; Focus Groups</td>
                 <td>
                 <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
@@ -157,7 +157,7 @@ permalink: "/syllabus/"
             <tr>
                 <td rowspan="2">5</td>
                 <td>13-Feb-2019</td>
-                <td>Preparing for the Development phase; ISM and Models of Social Change</td>
+                <td>Data Management &amp; Team Tutorial</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
                 </td>
@@ -165,7 +165,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
-                <td>Focus group findings</td>
+                <td>Participatory Design &amp; Lead User Method</td>
                 <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">    Slides</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/analysis_session_instructions.pdf" target="_blank">FG Analysis Guide</a>
                 </td>
@@ -185,20 +185,20 @@ permalink: "/syllabus/"
                     <p class="teaser"><a href="{{ site.baseurl }}/slow_hack/">Slow Hack</a></p>
                 </td>
                 <td>27-Feb-2019</td>
-                <td>Participatory Design</td>
+                <td>Focus Group Findings</td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>01-Mar-2019</td>
-                <td>Finding and using existing data</td>
+                <td>Preparing for the Development Phase; ISM Models of Change</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">7</td>
                 <td>06-Mar-2019</td>
-                <td>Data Visualisation</td>
+                <td>Finding and Using Existing Data</td>
                 <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a><br/>
                     <a href="https://infoactive.co/data-design/ch14.html">Anatomy of a Graphic</a>
                 </td>
@@ -206,7 +206,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>8-Mar-2019</td>
-                <td>Tutorials / Data surgeries</td>
+                <td>Data Visualisation</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
@@ -214,13 +214,13 @@ permalink: "/syllabus/"
             <tr>
                 <td rowspan="2">8</td>
                 <td>13-Mar-2019</td>
-                <td>Data Visualisation and Advocacy</td>
+                <td>Tutorials &amp; Data Surgery</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
             </tr>
             <tr>
                 <td>15-Mar-2019</td>
-                <td>Tutorials / Data surgeries</td>
+                <td>Data Visualisation &amp; Advocacy</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
@@ -230,7 +230,7 @@ permalink: "/syllabus/"
                     <p class="teaser"><a href="{{ site.baseurl }}/reporting/">Reporting</a></p>
                 </td>
                 <td>20-Mar-2019</td>
-                <td>Dry-run presentations, peer feedback</td>
+                <td>Tutorials &amp; Data Surgery</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
