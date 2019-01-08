@@ -28,30 +28,30 @@ permalink: "/assessment_overview/"
         </thead>
         <tbody>
             <tr>
-                <td>3</td>
+                <td>4</td>
                 <td><a href="{{ site.baseurl }}/assignment_gp1">GP1</a></td>
-                <td>10:00&ndash;12:00, Friday 29 Jan 2016</td>
+                <td>9:00&ndash;10:50, Wednesday 06 Jan 2019</td>
                 <td>Group Presentation</td>
                 <td>0%</td>
             </tr>
             <tr>
                 <td>5</td>
                 <td><a href="{{ site.baseurl }}/assignment_r1">R1</a></td>
-                <td>16:00, Monday 8 Feb 2016</td>
+                <td>16:00, Monday 11 Feb 2019</td>
                 <td>Individual Report</td>
                 <td>0%</td>
             </tr>
             <tr>
                 <td>11</td>
                 <td>GP2</td>
-                <td>10:00&ndash;12:00, Wednesday 23 March 2016</td>
+                <td>9:00&ndash;10:50, Wednesday 27 March 2019</td>
                 <td>Group Presentation</td>
                 <td>25%</td>
             </tr>
             <tr>
                 <td>12</td>
                 <td>R2</td>
-                <td>16:00, Friday 1 April 2016</td>
+                <td>16:00, Thursday 4 April 2019</td>
                 <td>Individual Report</td>
                 <td>75%</td>
             </tr>
