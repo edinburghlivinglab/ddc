@@ -22,8 +22,8 @@ permalink: "/sprint/"
 
 
 **Discovery Sprint event**: Beginning Wednesday 30th January 2019  
-**Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Friday 1st February 2019  
-**Discovery Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday,11th February 2019  
+**Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Wednesday 6 February 2019  
+**Discovery Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 11th February 2019  
 
 
 
