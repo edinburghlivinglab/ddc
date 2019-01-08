@@ -26,7 +26,7 @@ In this course, we use design thinking to prepare students for periods of focuse
 collaboration between experts and stakeholders to solve a
 particular problem around the circular economy. We take inspiration from the notion of a *Jam*, as described in the [Global Sustainability Jam](http://planet.globalsustainabilityjam.org/content/whats-jam):
 
-*You'll be working with people you might never have met before, bouncing ideas off one another and building on what bounces back. And it's not just talking&mdash;you are here to **turn your ideas into a concrete design or plan of action which you or somebody else might want to make real**. Perhaps it will be a service, a physical device, an initiative, a network, or something no-one has thought of yet&mdash;can you describe and plan it in a way that someone could go out and make it real, knowing what resources they would need, what they should do, and who they should talk to?  That's the challenge of the Jam.*
+>*You'll be working with people you might never have met before, bouncing ideas off one another and building on what bounces back. And it's not just talking&mdash;you are here to **turn your ideas into a concrete design or plan of action which you or somebody else might want to make real**. Perhaps it will be a service, a physical device, an initiative, a network, or something no-one has thought of yet&mdash;can you describe and plan it in a way that someone could go out and make it real, knowing what resources they would need, what they should do, and who they should talk to?  That's the challenge of the Jam.*
 
 As part of the DDC participatory design method, you will work in small interdisciplinary
 teams, and are required to involve community stakeholders in your project at
