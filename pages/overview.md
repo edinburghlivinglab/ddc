@@ -33,7 +33,7 @@ This is achieved by designing products smartly with their
 whole life cycle in mind, re-using and repairing to extend
 their useful life, and then when their life is deemed over,
 remanufacturing to create new products from old" (<a href="https://www.zerowastescotland.org.uk">Zero Waste Scotland</a>)
-
+</ul>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zCRKvDyyHmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
