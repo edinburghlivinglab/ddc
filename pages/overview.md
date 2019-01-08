@@ -33,10 +33,9 @@ This is achieved by designing products smartly with their
 whole life cycle in mind, re-using and repairing to extend
 their useful life, and then when their life is deemed over,
 remanufacturing to create new products from old" (<a href="https://www.zerowastescotland.org.uk">Zero Waste Scotland</a>)
-</ul>
-
+<ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zCRKvDyyHmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</ul>
 The Edinburgh Chamber of Commerce, the City of Edinburgh Council, the University and many other organistions in the city are currently attempting to develop strategies and and processes for that fullfil the circular economy goals. You can read a recent report on opportunities in the city supported by a national organistion Zero Waste Scotland.
 The report <a href="https://www.zerowastescotland.org.uk/sites/default/files/Circular%20Economy%20opportunities%20Edinburgh%202018.pdf">Circular Economy Opportunities Edinburgh</a>
 <a href="https://www.zerowastescotland.org.uk/circular-economy/circular-edinburgh">Circular Edinburgh Webpage</a> at Zero Waste Scotland
