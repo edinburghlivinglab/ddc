@@ -68,7 +68,7 @@ permalink: "/syllabus/"
                 <th>Date</th>
                 <th>Topic</th>
                 <th>Materials</th>
-                <th>Do before</th>
+                <th>Read before</th>
 
             </tr>
         </thead>
@@ -82,6 +82,10 @@ permalink: "/syllabus/"
                 <td>Course Overview</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
+                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a>
+                [The Circular Economy] (https://www.nature.com/news/the-circular-economy-1.19594) by Walter R. Sahel
+                [Cities in the Circular Economy - the Role of Digital Tech] (https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf)
+</td>
             </tr>
             <tr>
                 <td>18-Jan-2019</td>
@@ -90,8 +94,7 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
             
                 </td>
-                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a>
-</td>
+           
             </tr>
             <tr>
                 <td rowspan="2">2</td>
