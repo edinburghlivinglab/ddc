@@ -168,7 +168,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
-                <td>Participatory Design &amp; Lead User Method</td>
+                <td>Participatory Design</td>
                 <td><a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
                 </td>
                 <td>&nbsp;</td>
@@ -196,7 +196,8 @@ permalink: "/syllabus/"
             <tr>
                 <td>01-Mar-2019</td>
                 <td>Preparing for the Development Phase; ISM Models of Change</td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a>,br/.<a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a><br/>
+                <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
