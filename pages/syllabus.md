@@ -163,7 +163,8 @@ permalink: "/syllabus/"
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
                 <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
                 </td>
-                <td><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56</td>
+                <td><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br/>
+                <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron by Lisa Gitelman and Virginia Jackson, pp 1-14</td>
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
@@ -205,7 +206,7 @@ permalink: "/syllabus/"
                 <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a> 
                    
                 </td>
-                <td>&nbsp;</td>
+                <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641802">Data-Driven, Networked Urbanism</a> by Rob Kitchin</td>
             </tr>
             <tr>
                 <td>8-Mar-2019</td>
