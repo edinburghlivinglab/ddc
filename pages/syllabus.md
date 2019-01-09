@@ -81,10 +81,10 @@ permalink: "/syllabus/"
                 <td>16-Jan-2019</td>
                 <td>Course Overview</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>
-                <td>&nbsp;</td>
-                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a>
-                [The Circular Economy] (https://www.nature.com/news/the-circular-economy-1.19594) by Walter R. Sahel
-                [Cities in the Circular Economy - the Role of Digital Tech] (https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf)
+               
+                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a>,
+                [The Circular Economy] <a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel,
+                <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a>
 </td>
             </tr>
             <tr>
