@@ -104,7 +104,7 @@ permalink: "/syllabus/"
                      
                 </td>
                 <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">*The City of Tomorrow*-Ch. 1</a><br/><a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
+                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a><br/><a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
                 </td>
             </tr>
             <tr>
@@ -163,7 +163,7 @@ permalink: "/syllabus/"
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
                 <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
                 </td>
-                <td>&nbsp;</td>
+                <td><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56</td>
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
