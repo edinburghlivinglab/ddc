@@ -148,11 +148,11 @@ permalink: "/syllabus/"
                 <td>Intro to Data &amp; Focus Groups</td>
                 <td>
                 <a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a>
+                    <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a>
                 </td>
-                <td>Focus Groups</td>
+                <td><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a></td>
             </tr>
             <tr>
                 <td rowspan="2">5</td>
