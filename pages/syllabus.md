@@ -111,7 +111,7 @@ permalink: "/syllabus/"
                 <td>25-Jan-2019</td>
                 <td>Research ethics</td>
                 <td><a href="{{ site.baseurl }}/course_docs/Research-ethics_DDS_2016_web-version_final.pdf" target="_blank">Slides</a></td>
-                <td><a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">The Ethics of Reearch</a> from *Doing Research in the Real World*, pp 58-64.</td>
+                <td><a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a> from *Doing Research in the Real World*, pp 238-261.</td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
