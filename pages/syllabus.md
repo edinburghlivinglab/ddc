@@ -138,39 +138,37 @@ permalink: "/syllabus/"
                 <td>Team Presentations</td>
                 <td>
                 <a href="{{ site.baseurl }}/slides/NAME" target="_blank">NAME</a><br/>
-                <a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
                 </td>
                 <td>
-                Waste is Information pp. 27-53
+                Waste is Information pp. 27-53 and 207-225 (access on Learn)
                 </td>
             </tr>
             <tr>
                 <td>08-Feb-2019</td>
                 <td>Intro to Data &amp; Focus Groups</td>
                 <td>
-                <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
-                <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
-                <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
+                <a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a>
                 </td>
-                <td>Waste is Information pp. 207-225</td>
+                <td>Focus Groups</td>
             </tr>
             <tr>
                 <td rowspan="2">5</td>
                 <td>13-Feb-2019</td>
                 <td>Data Management &amp; Team Tutorial</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
+                <br/>
+                <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
+                <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
                 </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
                 <td>Participatory Design &amp; Lead User Method</td>
-                <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">    Slides</a><br/>
-                <a href="{{ site.baseurl }}/course_docs/analysis_session_instructions.pdf" target="_blank">FG Analysis Guide</a>
+                <td><a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -189,43 +187,45 @@ permalink: "/syllabus/"
                 </td>
                 <td>27-Feb-2019</td>
                 <td>Focus Group Findings</td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">    Slides</a><br/>
+                <a href="{{ site.baseurl }}/course_docs/analysis_session_instructions.pdf" target="_blank">FG Analysis Guide</a>
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>01-Mar-2019</td>
                 <td>Preparing for the Development Phase; ISM Models of Change</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a>,br/.<a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">7</td>
                 <td>06-Mar-2019</td>
                 <td>Finding and Using Existing Data</td>
-                <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a><br/>
-                    <a href="https://infoactive.co/data-design/ch14.html">Anatomy of a Graphic</a>
+                <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a> 
+                   
                 </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>8-Mar-2019</td>
                 <td>Data Visualisation</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
-                <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
+                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/><a href="https://infoactive.co/data-design/ch14.html">Anatomy of a Graphic</a></td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">8</td>
                 <td>13-Mar-2019</td>
                 <td>Tutorials &amp; Data Surgery</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
+                <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
             </tr>
             <tr>
                 <td>15-Mar-2019</td>
                 <td>Data Visualisation &amp; Advocacy</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-                <td>&nbsp;</td>
+                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
             </tr>
             <tr>
                 <td rowspan="2">9</td>
