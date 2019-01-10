@@ -94,7 +94,7 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
             
                 </td>
-           
+           <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">2</td>
@@ -223,7 +223,7 @@ permalink: "/syllabus/"
                 <td>13-Mar-2019</td>
                 <td>Tutorials &amp; Data Surgery</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-           
+           <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>15-Mar-2019</td>
