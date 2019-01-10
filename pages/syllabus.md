@@ -169,10 +169,10 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
-                <td>Participatory and Values Based Design</td>
+                <td>Preparing for the Development Phase; ISM Models of Change</td>
                 <td>&nbsp;
                 </td>
-                <td>Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)</td>
+                <td> </td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
@@ -196,11 +196,11 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>01-Mar-2019</td>
-                <td>Preparing for the Development Phase; ISM Models of Change</td>
+                <td>Participatory and Values Based Design</td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a><br/>
                 <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/><td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
-                <td>&nbsp;</td>
+                <td>Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)</td>
             </tr>
             <tr>
                 <td rowspan="2">7</td>
