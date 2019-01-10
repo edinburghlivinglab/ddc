@@ -168,8 +168,8 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
-                <td>Preparing for the Development Phase</td>
-                <td>&nbsp;
+                <td>Designing for Change</td>
+         <td><a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technial to the Political: Democratizing Design Thinking</a> by Staten et al.
                 </td>
                 <td> </td>
             </tr>
