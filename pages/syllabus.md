@@ -83,8 +83,7 @@ permalink: "/syllabus/"
                 <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>
                
                 <td>1. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a><br/>
-                2. <a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel<br/>
-                3. <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.
+                2. <a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel
 </td>
             </tr>
             <tr>
@@ -94,7 +93,7 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
             
                 </td>
-           <td>&nbsp;</td>
+           <td><a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.</td>
             </tr>
             <tr>
                 <td rowspan="2">2</td>
@@ -111,7 +110,7 @@ permalink: "/syllabus/"
                 <td>25-Jan-2019</td>
                 <td>Research ethics</td>
                 <td><a href="{{ site.baseurl }}/course_docs/Research-ethics_DDS_2016_web-version_final.pdf" target="_blank">Slides</a></td>
-                <td><a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.</td>
+                <td>1. <a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.<br/>2.<a href="https://www.ed.ac.uk/records-management/policy/data-protection">University of Edinburgh Data Protection Policy</a></td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
