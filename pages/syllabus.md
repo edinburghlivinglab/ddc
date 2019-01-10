@@ -103,8 +103,8 @@ permalink: "/syllabus/"
                 <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a><br/>
                      
                 </td>
-                <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/>3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a><br/>4. <a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
+                <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
+                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a><br/>4. <a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
                 </td>
             </tr>
             <tr>
@@ -169,7 +169,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
-                <td>Preparing for the Development Phase; ISM Models of Change</td>
+                <td>Preparing for the Development Phase</td>
                 <td>&nbsp;
                 </td>
                 <td> </td>
