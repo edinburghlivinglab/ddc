@@ -82,9 +82,9 @@ permalink: "/syllabus/"
                 <td>Course Overview</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>
                
-                <td><a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a><br/>
-                <a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel<br/>
-                <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.
+                <td>1. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a><br/>
+                <2. a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel<br/>
+                <3. a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.
 </td>
             </tr>
             <tr>
@@ -103,15 +103,15 @@ permalink: "/syllabus/"
                 <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a><br/>
                      
                 </td>
-                <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a><br/><a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
+                <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
+                2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/>3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a><br/>4. <a href="http://www.tbook.constantvzw.org/wp-content/derivedebord.pdf">Theory of the Derive</a>
                 </td>
             </tr>
             <tr>
                 <td>25-Jan-2019</td>
                 <td>Research ethics</td>
                 <td><a href="{{ site.baseurl }}/course_docs/Research-ethics_DDS_2016_web-version_final.pdf" target="_blank">Slides</a></td>
-                <td><a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a> from *Doing Research in the Real World*, pp 238-261.</td>
+                <td><a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.</td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
@@ -163,15 +163,16 @@ permalink: "/syllabus/"
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
                 <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
                 </td>
-                <td><a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br/>
-                <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron by Lisa Gitelman and Virginia Jackson, pp 1-14</td>
+                <td>1. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br/>
+                2. <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron</a> by Lisa Gitelman and Virginia Jackson, pp 1-14
+ </td>
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
-                <td>Participatory Design</td>
-                <td><a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
+                <td>Participatory and Values Based Design</td>
+                <td>&nbsp;
                 </td>
-                <td>&nbsp;</td>
+                <td>Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)</td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
@@ -197,7 +198,8 @@ permalink: "/syllabus/"
                 <td>01-Mar-2019</td>
                 <td>Preparing for the Development Phase; ISM Models of Change</td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a><br/>
-                <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
+                <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/><td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
+                <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -220,8 +222,7 @@ permalink: "/syllabus/"
                 <td>13-Mar-2019</td>
                 <td>Tutorials &amp; Data Surgery</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
-                <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
+           
             </tr>
             <tr>
                 <td>15-Mar-2019</td>
