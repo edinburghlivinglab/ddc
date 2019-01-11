@@ -6,12 +6,9 @@ subheadline: ""
 teaser: ""
 permalink: "/syllabus/"
 ---
-<div class="">
+
  <h2>Course Times and Locations</h2>
-     <p>
-       
-     </p>
- </div>
+
 
  <div class="row">
      <div class="small-12 large-6 text-center columns">
@@ -69,7 +66,6 @@ permalink: "/syllabus/"
                 <th>Topic</th>
                 <th>Materials</th>
                 <th>Read/Watch before</th>
-
             </tr>
         </thead>
         <tbody>
@@ -80,10 +76,8 @@ permalink: "/syllabus/"
                 </td>
                 <td>16-Jan-2019</td>
                 <td>Course Overview</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>
-               
-                <td><a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel
-</td>
+                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>              
+                <td><a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel</td>
             </tr>
             <tr>
                 <td>18-Jan-2019</td>
