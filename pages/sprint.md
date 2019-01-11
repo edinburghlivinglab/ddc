@@ -111,7 +111,7 @@ DDS and university data management and privacy requirements.
 
 
 ## Learning Outcomes for this Phase
-
+blah
 <!-- * [LO1: Interventions]({{ site.baseurl }}/learning_outcomes#interventions) -->
 * [LO2: Data]({{ site.baseurl }}/learning_outcomes#data)
 * [LO3: Communication]({{ site.baseurl }}/learning_outcomes#communication)
