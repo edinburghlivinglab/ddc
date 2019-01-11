@@ -17,7 +17,6 @@
 #   Navigation to the right › side: right
 #
 
-
 - title: "Syllabus"
   url: "/syllabus/"
   side: right
@@ -41,17 +40,7 @@
   - title: "Success Criteria"
     url: "/project_success/"
 
-- title: "Projects"
-  # url: "/projects_2016/"
-  side: right
- dropdown:
- - title: "Projects 2019"
-   url: "/project_2019/"
- - title: "Projects 2016"
-   url: "/projects_2016/"
- - title: "Project Ideas"
-   url: "/project_ideas/"
-    
+-
  #  - title: "Meal Deals"
  #    url: "/meal_deals/"
  #  - title: "Preparation"
