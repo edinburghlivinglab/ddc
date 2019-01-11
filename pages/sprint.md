@@ -1,30 +1,20 @@
 ---
 layout: page
-title: "Sprint"
+title: "Design Sprint"
 subheadline: "Course Phase 1"
 permalink: "/sprint/"
 ---
 
-<!-- <div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
+<div markdown="1">
+	
+<!-- <div class="medium-8 medium-pull-4 columns" markdown="1"> -->
 
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div>
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">-->
 
 ## Key Dates
-
 
 **Discovery Sprint event**: Beginning Wednesday 30th January 2019  
 **Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Wednesday 6 February 2019  
 **Discovery Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 11th February 2019  
-
 
 
 ## Description
@@ -83,7 +73,7 @@ of information as you can reasonably collect during the Fast Hack:
 
 * What are some of the specific recycling and sustainability problems you might be able to address, within this sub-theme?
 
-* What are some possible ideas for addressing each problem (i.e. improving some aspect of the recycling and upcycling economy)?
+* What are some possible ideas for addressing each problem (i.e., improving some aspect of the recycling and upcycling economy)?
 
 In the presentation, your team needs to be able to explain what new data
 you collected and what existing data you located and used, and how the
@@ -111,10 +101,10 @@ DDS and university data management and privacy requirements.
 
 
 ## Learning Outcomes for this Phase
-blah
+
 <!-- * [LO1: Interventions]({{ site.baseurl }}/learning_outcomes#interventions) -->
 * [LO2: Data]({{ site.baseurl }}/learning_outcomes#data)
 * [LO3: Communication]({{ site.baseurl }}/learning_outcomes#communication)
 * [LO4: Professionalism]({{ site.baseurl }}/learning_outcomes#professionalism)
 
- 
+ </div>
