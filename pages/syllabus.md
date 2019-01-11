@@ -151,7 +151,7 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
                 </td>
-                <td><a href="http://methods.sagepub.com.ezproxy.is.ed.ac.uk/base/download/BookChapter/the-data-revolution/n1.xml">Conceptualising Data</a> by Kitchin <br/> “Database as genre" by Ed Folsom (access in Learn)
+                <td>1. <a href="http://methods.sagepub.com.ezproxy.is.ed.ac.uk/base/download/BookChapter/the-data-revolution/n1.xml">Conceptualising Data</a> by Kitchin <br/>2. “Database as genre" by Ed Folsom (access in Learn)
                 </td>
             </tr>
             <tr>
