@@ -30,21 +30,28 @@
     url: "/project_overview/"
   - title: "Preparation"
     url: "/preparation/"
-  - title: "Fast Hack"
-    url: "/fast_hack/"
+  - title: "Design Sprint"
+    url: "/sprint/"
   - title: "Digging Deeper"
     url: "/digging_deeper/"
-  - title: "Slow Hack"
-    url: "/slow_hack/"
+  - title: "Development"
+    url: "/development/"
   - title: "Reporting"
     url: "/reporting/"
   - title: "Success Criteria"
     url: "/project_success/"
 
 - title: "Projects"
-  url: "/projects_2016/"
+  # url: "/projects_2016/"
   side: right
- # dropdown:
+ dropdown:
+  - title: "Projects 2019"
+    url: "/project_2019/"
+    - title: "Projects 2016"
+    url: "/projects_2016/"
+    - title: "Project Ideas"
+    url: "/project_ideas/"
+    
  #  - title: "Meal Deals"
  #    url: "/meal_deals/"
  #  - title: "Preparation"
@@ -90,14 +97,13 @@
     url: "/form_templates"
   - title: "Videos"
     url: "/videos/"
-  - title: "Local Food Initiatives"
+  - title: "Local Initiatives"
     url: "/initiatives/"
   - title: "Datasets"
     url: "/datasets/"
   - title: "DataStore"
     url: "/data_store/"
-  - title: "Jupyter Notebooks"
-    url: "/jupyter/"
+
 
 
 - title: "Contacts"
