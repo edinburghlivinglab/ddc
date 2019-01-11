@@ -117,4 +117,4 @@ blah
 * [LO3: Communication]({{ site.baseurl }}/learning_outcomes#communication)
 * [LO4: Professionalism]({{ site.baseurl }}/learning_outcomes#professionalism)
 
-
+ 
