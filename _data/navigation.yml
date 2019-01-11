@@ -1,10 +1,10 @@
 #
 #   Navigation to the left › side: left
 #
+
 - title: Home
   url: "/"
   side: left
-
 
 # - title: Blog
 #   url: "/blog/"
@@ -44,12 +44,12 @@
 - title: "Projects"
   # url: "/projects_2016/"
   side: right
- dropdown:
+  dropdown:
   - title: "Projects 2019"
     url: "/project_2019/"
-    - title: "Projects 2016"
+  - title: "Projects 2016"
     url: "/projects_2016/"
-    - title: "Project Ideas"
+  - title: "Project Ideas"
     url: "/project_ideas/"
     
  #  - title: "Meal Deals"
