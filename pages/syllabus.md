@@ -127,6 +127,7 @@ permalink: "/syllabus/"
                      <td>&nbsp;</td>
             </tr>
             <tr>
+                <td rowspan="2">4</td>
                 <td>06-Feb-2019</td>
                 <td>Fieldwork and Presentation Prep</td>
                 <td>
@@ -135,7 +136,6 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td rowspan="2">4</td>
                 <td rowspan="4" valign="middle" bgcolor="#EFC94C">
                     <p class="teaser"><a href="{{ site.baseurl }}/digging_deeper/">Digging Deeper</a></p>
                 </td>
