@@ -155,16 +155,16 @@ permalink: "/syllabus/"
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
                 </td>
-                <td>1. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br/>
-                2. <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron</a> by Lisa Gitelman and Virginia Jackson, pp 1-14
+                <td>a href="http://methods.sagepub.com.ezproxy.is.ed.ac.uk/base/download/BookChapter/the-data-revolution/n1.xmlConceptualising>Conceptualising Data</a> by Kitchin (find in Learn)
  </td>
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
                 <td>Data Management &amp; Team Tutorial</td>
-         <td>&nbsp;</td>
-                <td><a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
+         <td><a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
                 <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a></td>
+                <td>1. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br/>
+                2. <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron</a> by Lisa Gitelman and Virginia Jackson, pp 1-14</td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
