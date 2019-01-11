@@ -201,7 +201,7 @@ permalink: "/syllabus/"
                 <td>8-Mar-2019</td>
                 <td>Data Visualisation</td>
                 <td>&nbsp;</td>
-                <td>Graphic Discovery by Wainer (access on Learn)<br/><a href="http://scihi.org/william-playfair-and-the-beginnings-of-infographics/">William Playfair and the beginnings of infographics</a></td>
+                <td>1. Graphic Discovery by Wainer (access on Learn)<br/> 2. <a href="http://scihi.org/william-playfair-and-the-beginnings-of-infographics/">William Playfair and the beginnings of infographics</a></td>
             </tr>
             <tr>
                 <td rowspan="2">8</td>
