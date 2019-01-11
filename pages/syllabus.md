@@ -93,7 +93,7 @@ permalink: "/syllabus/"
             
                 </td>
            <td>1. <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.<br/>
-           <2. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a></td>
+           2. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a></td>
             </tr>
             <tr>
                 <td rowspan="2">2</td>
@@ -103,14 +103,14 @@ permalink: "/syllabus/"
                      
                 </td>
                 <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/>3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a></a>
+                2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/>3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a> 
                 </td>
             </tr>
             <tr>
                 <td>25-Jan-2019</td>
                 <td>Research ethics</td>
                 <td><a href="{{ site.baseurl }}/course_docs/Research-ethics_DDS_2016_web-version_final.pdf" target="_blank">Slides</a></td>
-                <td>1. <a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.<br/>2.<a href="https://www.ed.ac.uk/records-management/policy/data-protection">University of Edinburgh Data Protection Policy</a></td>
+                <td>1. <a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.<br/>2.<a href="https://www.ed.ac.uk/records-management/policy/data-protection"> University of Edinburgh Data Protection Policy</a></td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
@@ -201,10 +201,10 @@ permalink: "/syllabus/"
                 <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a><br/>Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)</td>
             </tr>
             <tr>
+ <td rowspan="2">8</td>
                 <td>06-Mar-2019</td>
                 <td>Finding and Using Existing Data</td>
                 <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a> 
-                   
                 </td>
                 <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641802">Data-Driven, Networked Urbanism</a> by Rob Kitchin</td>
             </tr>
