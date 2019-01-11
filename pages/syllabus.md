@@ -177,7 +177,7 @@ permalink: "/syllabus/"
             <tr>
                 <td rowspan="2">6</td>
                 <td rowspan="6" valign="middle" bgcolor="#EFC94C">
-                    <p class="teaser"><a href="{{ site.baseurl }}/slow_hack/">Slow Hack</a></p>
+                    <p class="teaser"><a href="{{ site.baseurl }}/development/">Development</a></p>
                 </td>
                 <td>27-Feb-2019</td>
                 <td>Focus Group Findings</td>
