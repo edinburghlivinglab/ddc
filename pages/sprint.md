@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Discovery Sprint"
+title: "Sprint"
 subheadline: "Course Phase 1"
 permalink: "/sprint/"
 ---
