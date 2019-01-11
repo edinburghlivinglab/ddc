@@ -75,7 +75,7 @@ permalink: "/syllabus/"
         <tbody>
             <tr>
                 <td rowspan="2">1</td>
-                <td rowspan="4" valign="middle" bgcolor="#EFC94C">
+                <td rowspan="5" valign="middle" bgcolor="#EFC94C">
                     <p class="teaser"><a href="{{ site.baseurl }}/preparation/">Preparation</a></p>
                 </td>
                 <td>16-Jan-2019</td>
