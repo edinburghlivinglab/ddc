@@ -7,7 +7,7 @@ permalink: "/datasets/"
 ## Circular Economy-related Datasets
 
 * Edinburgh Council's [Communal Waste Collection Assets](https://data.edinburghopendata.info/dataset/communal-waste-collection-assets)
-* Edinburgh Council's [Litter Bins] (https://data.edinburghopendata.info/dataset/litter-bins0515v)
+Edinburgh Council's [Litter Bins](https://data.edinburghopendata.info/dataset/litter-bins0515v)
 
 ## Open Data Portals
 
