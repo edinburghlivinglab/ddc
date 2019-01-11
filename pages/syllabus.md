@@ -225,7 +225,7 @@ permalink: "/syllabus/"
                 <td>15-Mar-2019</td>
                 <td>Data Visualisation &amp; Advocacy</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
+                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 4-13, 98-116, 130-133</td>
             </tr>
             <tr>
                 <td rowspan="2">9</td>
