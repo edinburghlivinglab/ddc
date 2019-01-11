@@ -6,6 +6,8 @@ teaser: ""
 permalink: "/initiatives/"
 ---
 
+## <a name="essential">Local Iniatives</a>
+
 Here are some local resources that can serve as sites of research.
 
 ## <a name="essential">Remakeries</a>
