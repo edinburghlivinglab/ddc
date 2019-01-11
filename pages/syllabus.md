@@ -188,7 +188,7 @@ permalink: "/syllabus/"
                 <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a><br />
                     <a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br />
                     <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
-                <td>1. <Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)<br/>2. <a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technical to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
+                <td>1. Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)<br/>2. <a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technical to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
             </tr>
             <tr>            
                 <td rowspan="2">8</td>
