@@ -5,7 +5,7 @@ PORT := 4020
 PAGESDIR := pages
 DOCSDIR := course_docs
 BUILDIR := _build
-#export MD :=  prep.md fast_hack.md digging_deeper.md slow_hack.md reporting.md project_success.md
+#export MD :=  prep.md sprint.md digging_deeper.md develpoment.md reporting.md project_success.md
 INDEX := pages-root-folder/index.md
 PAGES := $(INDEX) $(MD) 
 
