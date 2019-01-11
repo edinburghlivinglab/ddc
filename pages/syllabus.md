@@ -89,7 +89,7 @@ permalink: "/syllabus/"
                 <td>18-Jan-2019</td>
                 <td>Investigating recycling, upcycling, and the circular economy</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>guest speakers: Transition Edinburgh and Evan Morgan from the Forge
+                    <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>guest speakers: Transition Edinburgh and Evan Morgan (The Forge)
             
                 </td>
            <td>1. <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.<br/>
@@ -99,18 +99,18 @@ permalink: "/syllabus/"
                 <td rowspan="2">2</td>
                 <td>23-Jan-2019</td>
                 <td>Design thinking in the field</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a><br/>
+                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a><br/>guest speakers: Sampsa Hyyslo and Anton Puzorjov (One Cherry)
                      
                 </td>
                 <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
-                2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/>3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow - Ch. 1 pp. 3-13</a> 
+                2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/>3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a> - Ch. 1 pp. 3-13 
                 </td>
             </tr>
             <tr>
                 <td>25-Jan-2019</td>
                 <td>Fieldwork Preparation</td>
                 <td>&nbsp;</td>
-                <td>Waste is Information pp. 1-20 and 53-86 (access on Learn)</td>
+                <td>Waste is Information pp. 1-20 and 53-86 (access on Learn)<br/>https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_large.pdf <a href="Visualising Advocacy>"Visualising Advocacy</a> pp. 4-13, 23-31</td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
@@ -139,28 +139,26 @@ permalink: "/syllabus/"
                 <a href="{{ site.baseurl }}/slides/NAME" target="_blank">NAME</a><br/>guest speaker: Eileen Boyle
                 </td>
                 <td>
-                Waste is Information pp. 27-53 and 207-225 (access on Learn)
+                &nbsp;
                 </td>
             </tr>
             <tr>
                 <td>08-Feb-2019</td>
-                <td>Intro to Data &amp; Focus Groups</td>
+                <td>Team Presentations</td>
                 <td>
-                <a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
-                    <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a>
+                
                 </td>
-                <td><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a></td>
+                <td></td>
             </tr>
             <tr>
                 <td rowspan="2">5</td>
                 <td>13-Feb-2019</td>
-                <td>Data Management &amp; Team Tutorial</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
-                <br/>
-                <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
-                <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
+                <td>Intro to Data &amp; Focus Groups</td>
+                <td><a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
+                    <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
+                <br/><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
                 </td>
                 <td>1. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br/>
                 2. <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron</a> by Lisa Gitelman and Virginia Jackson, pp 1-14
@@ -168,9 +166,10 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>15-Feb-2019</td>
-                <td>Designing for Change</td>
+                <td>Data Management &amp; Team Tutorial</td>
          <td>&nbsp;</td>
-                <td><a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technial to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
+                <td><a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
+                <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a></td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
@@ -198,7 +197,7 @@ permalink: "/syllabus/"
                 <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a><br/>
                 <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
  <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
-                <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a><br/>Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)</td>
+                <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a><br/>Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)<br/><a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technial to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
            
             <tr>
  <td rowspan="2">8</td>
@@ -225,7 +224,7 @@ permalink: "/syllabus/"
                 <td>15-Mar-2019</td>
                 <td>Data Visualisation &amp; Advocacy</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 4-13, 98-116, 130-133</td>
+                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 98-116, 130-133</td>
             </tr>
             <tr>
                 <td rowspan="2">9</td>
