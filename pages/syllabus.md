@@ -146,7 +146,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">5</td>
                 <td>13-Feb-2019</td>
                 <td>Intro to Data &amp; Focus Groups</td>
-                <td><a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br />
+                <td><a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">FG Slides</a><br />
                     <br /><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
