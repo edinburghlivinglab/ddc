@@ -201,7 +201,7 @@ permalink: "/syllabus/"
                 <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a><br/>Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)</td>
             </tr>
             <tr>
-                <td rowspan="2">7</td>
+                <td> rowspan="2">7</td>
                 <td>06-Mar-2019</td>
                 <td>Finding and Using Existing Data</td>
                 <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a> 
