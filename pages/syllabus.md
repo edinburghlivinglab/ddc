@@ -93,7 +93,7 @@ permalink: "/syllabus/"
             
                 </td>
            <td>1. <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.<br/>
-           <2. a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a></td>
+           <2. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a></td>
             </tr>
             <tr>
                 <td rowspan="2">2</td>
