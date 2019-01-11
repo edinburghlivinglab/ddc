@@ -89,8 +89,7 @@ permalink: "/syllabus/"
                 <td>18-Jan-2019</td>
                 <td>Investigating recycling, upcycling, and the circular economy</td>
                 <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>guest speakers: Transition Edinburgh and Evan Morgan (The Forge)
-            
+                    <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br/>
                 </td>
            <td>1. <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.<br/>
            2. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a></td>
@@ -99,8 +98,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">2</td>
                 <td>23-Jan-2019</td>
                 <td>Design thinking in the field</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a><br/>guest speakers: Sampsa Hyyslo and Anton Puzorjov (One Cherry)
-                     
+                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a><br/> 
                 </td>
                 <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
                 2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br/>3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a> - Ch. 1 pp. 3-13 
@@ -125,7 +123,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>01-Feb-2019</td>
                 <td>Fieldwork</td>
-                <td>>&nbsp;</td>
+                <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -136,7 +134,7 @@ permalink: "/syllabus/"
                 <td>06-Feb-2019</td>
                 <td>Fieldwork and Presentation Prep</td>
                 <td>
-                <a href="{{ site.baseurl }}/slides/NAME" target="_blank">NAME</a><br/>guest speaker: Eileen Boyle
+                <a href="{{ site.baseurl }}/slides/NAME" target="_blank">NAME</a><br/> 
                 </td>
                 <td>
                 &nbsp;
