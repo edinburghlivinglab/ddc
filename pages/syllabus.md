@@ -83,15 +83,13 @@ permalink: "/syllabus/"
                 </td>
                 <td>16-Jan-2019</td>
                 <td>Course Overview</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME" target="_blank">Slides</a></td>
+                <td>&nbsp;</td>
                 <td><a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel</td>
             </tr>
             <tr>
                 <td>18-Jan-2019</td>
                 <td>Investigating recycling,<br />upcycling, and the circular economy</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br />
-                    <a href="{{ site.baseurl }}/course_docs/NAME.pdf" target="_blank">NAME</a><br />
-                </td>
+                <td>&nbsp;</td>
                 <td>1. <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.<br />
                     2. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a></td>
             </tr>
@@ -110,13 +108,13 @@ permalink: "/syllabus/"
                 <td>25-Jan-2019</td>
                 <td>Fieldwork Preparation</td>
                 <td>&nbsp;</td>
-                <td>Waste is Information pp. 1-20 and 53-86 (access on Learn)<br /><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_large.pdf">Visualising Advocacy</a> pp. 4-13, 23-31</td>
+                <td>1. Waste is Information pp. 1-20 and 53-86 (access on Learn)<br />2. <a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_large.pdf">Visualising Advocacy</a> pp. 4-13, 23-31</td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
                 <td>30-Jan-2019</td>
                 <td>Research ethics</td>
-                <td><a href="{{ site.baseurl }}/course_docs/Research-ethics_DDS_2016_web-version_final.pdf" target="_blank">Slides</a></td>
+                <td>&nbsp;</td>
                 <td>1. <a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.<br />2.<a href="https://www.ed.ac.uk/records-management/policy/data-protection"> University of Edinburgh Data Protection Policy</a></td>
             </tr>
             <tr>
@@ -132,9 +130,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">4</td>
                 <td>06-Feb-2019</td>
                 <td>Fieldwork and Presentation Prep</td>
-                <td>
-                    <a href="{{ site.baseurl }}/slides/NAME" target="_blank">NAME</a><br />
-                </td>
+                <td></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -152,12 +148,11 @@ permalink: "/syllabus/"
                 <td>13-Feb-2019</td>
                 <td>Intro to Data &amp; Focus Groups</td>
                 <td><a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br />
-                    <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br />
                     <br /><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
                 </td>
-                <td><a href="http://methods.sagepub.com.ezproxy.is.ed.ac.uk/base/download/BookChapter/the-data-revolution/n1.xml">Conceptualising Data</a> by Kitchin (find in Learn)
+                <td><a href="http://methods.sagepub.com.ezproxy.is.ed.ac.uk/base/download/BookChapter/the-data-revolution/n1.xml">Conceptualising Data</a> by Kitchin <br/> “Database as genre" by Ed Folsom (access in Learn)
                 </td>
             </tr>
             <tr>
@@ -192,36 +187,35 @@ permalink: "/syllabus/"
                 <td>01-Mar-2019</td>
                 <td>Participatory and Values Based Design</td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a><br />
-                    <a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br /></td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br />
-                    <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a><br />Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)<br /><a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technical to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
+                    <a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br />
+                    <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
+                <td>1. <Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)<br/>2. <a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technical to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
             </tr>
             <tr>            
                 <td rowspan="2">8</td>
                 <td>06-Mar-2019</td>
                 <td>Finding and Using Existing Data</td>
-                <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a>
-                </td>
+                <td>&nbsp;</td>
                 <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641802">Data-Driven, Networked Urbanism</a> by Rob Kitchin</td>
             </tr>
             <tr>
                 <td>8-Mar-2019</td>
                 <td>Data Visualisation</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a><br /><a href="https://infoactive.co/data-design/ch14.html">Anatomy of a Graphic</a></td>
                 <td>&nbsp;</td>
+                <td>Graphic Discovery by Wainer (access on Learn)<br/><a href="http://scihi.org/william-playfair-and-the-beginnings-of-infographics/">William Playfair and the beginnings of infographics</a></td>
             </tr>
             <tr>
                 <td rowspan="2">8</td>
                 <td>13-Mar-2019</td>
-                <td>Tutorials &amp; Data Surgery</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
+                <td>Data Visualisation &amp; Advocacy</td>
                 <td>&nbsp;</td>
+                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 98-116, 130-133</td>
             </tr>
             <tr>
                 <td>15-Mar-2019</td>
-                <td>Data Visualisation &amp; Advocacy</td>
-                <td><a href="{{ site.baseurl }}/slides/NAME.html" target="_blank">Slides</a></td>
-                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 98-116, 130-133</td>
+                <td>Geographic Information System</td>
+                <td>&nbsp;</td>
+                <td><a href="https://acme-journal.org/index.php/acme/article/view/723">An Introduction to Critical Cartography</a> by Crampton and Krygier</td>
             </tr>
             <tr>
                 <td rowspan="2">9</td>
