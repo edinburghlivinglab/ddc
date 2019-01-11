@@ -110,7 +110,7 @@ permalink: "/syllabus/"
                 <td>25-Jan-2019</td>
                 <td>Fieldwork Preparation</td>
                 <td>&nbsp;</td>
-                <td>Waste is Information pp. 1-20 and 53-86 (access on Learn)<br/>https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_large.pdf <a href="Visualising Advocacy>"Visualising Advocacy</a> pp. 4-13, 23-31</td>
+                <td>Waste is Information pp. 1-20 and 53-86 (access on Learn)<br/><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_large.pdf">Visualising Advocacy</a> pp. 4-13, 23-31</td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
