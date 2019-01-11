@@ -41,7 +41,7 @@
     url: "/project_success/"
 
 - title: "Projects"
-  # url: "/projects_2019/"
+  url: "/projects_2019/"
   side: right
   dropdown:
   - title: "Projects 2019"
