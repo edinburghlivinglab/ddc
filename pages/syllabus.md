@@ -243,7 +243,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>29-Mar-2019</td>
                 <td>Briefing on Final Report</td>
-                <td><a href="{{ site.baseurl }}/slides/week10-2.html" target="_blank">Slides</a></td>
+                <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
         </tbody>
