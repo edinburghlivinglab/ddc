@@ -136,7 +136,7 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td rowspan="4" valign="middle" bgcolor="#EFC94C">
+                <td rowspan="3" valign="middle" bgcolor="#EFC94C">
                     <p class="teaser"><a href="{{ site.baseurl }}/digging_deeper/">Digging Deeper</a></p>
                 </td>
                       <td>08-Feb-2019</td>
