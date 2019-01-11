@@ -19,6 +19,7 @@ Here are some local resources that can serve as sites of research.
 
 ## <a name="essential">Circular Economy Platforms</a>
 *[One Cherry] (https://onecherry.co.uk)
+*[My Turn] (https://myturn.com)
 
-## <a name="essential">Sustainability Iniatives</a>
+## <a name="essential">Sustainability Advocacy</a>
 * [Transition Edinburgh] (https://transitionedinburgh.org.uk)
