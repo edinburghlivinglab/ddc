@@ -118,7 +118,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td rowspan="2" valign="middle" bgcolor="#FFF">
-                    <p class="teaser"><a href="{{ site.baseurl }}/sprint/">Design Sprint</a></p>
+                    <p class="teaser"><a href="{{ site.baseurl }}/design_sprint/">Design Sprint</a></p>
                 </td>
                 <td>01-Feb-2019</td>
                 <td>Fieldwork</td>
