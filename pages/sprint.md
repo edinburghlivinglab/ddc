@@ -2,11 +2,11 @@
 layout: page
 title: "Design Sprint"
 subheadline: "Course Phase 1"
-permalink: "/sprint/"
+permalink: "/design_sprint/"
 ---
 
 <div markdown="1">
-	
+
 <!-- <div class="medium-8 medium-pull-4 columns" markdown="1"> -->
 
 
