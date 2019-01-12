@@ -37,7 +37,7 @@ try new things.
 
 There will be two separate design phases as a part of DDC: a [Design Sprint (Phase 1)]({{ site.baseurl }}/design_sprint/)
 intended to explore our theme (below), identify specific problems and generate
-ideas, and a [Development Phase (Phase 3)]({{ site.baseurl }}/slow_hack) intended to develop a single design in more
+ideas, and a [Development Phase (Phase 3)]({{ site.baseurl }}/development/) intended to develop a single design in more
 depth, over a longer period of time.
 
 As described in [Project Overview]({{ site.baseurl }}/project_overview),
