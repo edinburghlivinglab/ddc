@@ -33,14 +33,16 @@ This is achieved by designing products smartly with their
 whole life cycle in mind, re-using and repairing to extend
 their useful life, and then when their life is deemed over,
 remanufacturing to create new products from old" (<a href="https://www.zerowastescotland.org.uk">Zero Waste Scotland</a>)
+
 <ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zCRKvDyyHmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </ul>
+
 The Edinburgh Chamber of Commerce, the City of Edinburgh Council, the University and many other organistions in the city are currently attempting to develop strategies and and processes for that fullfil the circular economy goals. You can read a recent report on opportunities in the city supported by a national organistion Zero Waste Scotland.
 The report <a href="https://www.zerowastescotland.org.uk/sites/default/files/Circular%20Economy%20opportunities%20Edinburgh%202018.pdf">Circular Economy Opportunities Edinburgh</a>
 <a href="https://www.zerowastescotland.org.uk/circular-economy/circular-edinburgh">Circular Edinburgh Webpage</a> at Zero Waste Scotland
 <a href="https://www.edinburghchamber.co.uk/circular-edinburgh/">Circular Edinburgh website at the Chamber of Commerce.</a>
-<a href="https://www.ed.ac.uk/about/sustainability/news/archived-news/2015/circular-economy-report-publishedwhat-we-do/circular-economy">Circular Economy at the University of Edinburgh</a>
+<a href="https://www.ed.ac.uk/about/sustainability/news/archived-news/2015/circular-economy-report-publishedwhat-we-do/circular-economy">Circular Economy at the University of Edinburgh</a>.
 
 In order to narrow down the scope of what you do, you have the opportunity to work with a number of city and university organisions that will help you focus your research and design around their area of work.
 
@@ -68,9 +70,9 @@ semester. Descriptions of the phases can be found by following the links
 below:
 
 1. [Preparation]({{ site.baseurl }}/preparation)
-2. [Discovery Sprint]({{ site.baseurl }}/sprint)
+2. [Design Sprint]({{ site.baseurl }}/design_sprint)
 3. [Digging Deeper]({{ site.baseurl }}/digging_deeper)
-4. [Development]({{ site.baseurl }}/slow_hack)
+4. [Development]({{ site.baseurl }}/development)
 5. [Reporting]({{ site.baseurl }}/reporting)
 
 ## Design and Design Methods
@@ -137,7 +139,7 @@ addition, you are required to use some **existing** data and also to
 </div>
 
 
-## The City - Edinburgh
+## The City &mdash; Edinburgh
 
 You will be working with the City of Edinburgh as your focus, research area and canvas for intervention. Why the City? Cities, small and large, are where most of the world's population live, and where there is the most intensive production and consumption of goods and services. We can think of it an an ecosystem that is natural, designed, economic, technological, and social. Each city has its own history, culture and geography that shaped its present and will continue to shape its future. You will be exploring the forces that have shaped how the city of Edinburgh works, focusing on production consumption and waste, and the organisations trying to change thing, and resisting change.You will learn about the laws and institutions that govern the city, where its wealth comes from and how it is distributed, the routines and expectations of its population, and the barriers to change.
 

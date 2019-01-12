@@ -12,9 +12,9 @@ permalink: "/design_sprint/"
 
 ## Key Dates
 
-**Discovery Sprint event**: Beginning Wednesday 30th January 2019  
+**Design Sprint event**: Beginning Wednesday 30th January 2019  
 **Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Wednesday 6 February 2019  
-**Discovery Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 11th February 2019  
+**Design Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 11th February 2019  
 
 
 ## Description
@@ -34,14 +34,14 @@ During the Discovery Sprint, you are a detective. Just as a detective must go to
 
 Although we have identified a number of Circular Economy [sub-themes]({{ site.baseurl }}/project_overview),  each of these is still pretty broad. Your team will need to think about your interest and priorities within your chosen sub-theme. You will need to plan:
 
-* Where to go during the Discovery Sprint.
+* Where to go during the Design Sprint.
 * Who to talk to &mdash; may be teams, individuals, organisations.
 * What you want to find out (types of data to collect).
 * Practicalities: any equipment needed, staying in touch on the day, storing information, etc. 
 
 At the same time as planning how to use your time, you should be ready to follow up on interesting, unexpected things you might stumble across during your investigation.
 
-Some starting information for the Discovery Sprint is available here:
+Some starting information for the Design Sprint is available here:
 
 * [Local Food and Sustainability initiatives]({{ site.baseurl }}/initiatives)
 * [Existing datasets]({{ site.baseurl }}/datasets)

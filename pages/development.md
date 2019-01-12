@@ -14,13 +14,13 @@ permalink: "/development/"
 ## Description
 
 In this phase, your team will start with the design idea identified during the 
-[Digging Deeper]({{ site.baseurl }}/digging_deeper) phase, and flesh out this idea into a proof-of-concept solution to your problem. Your idea will likely evolve over the Design Development Phase as you discuss it further, consult stakeholders, and collect new data &mdash; it might look very different at the end of this process than at the start. This is good! 
+[Digging Deeper]({{ site.baseurl }}/digging_deeper/) phase, and flesh out this idea into a proof-of-concept solution to your problem. Your idea will likely evolve over the Design Development Phase as you discuss it further, consult stakeholders, and collect new data &mdash; it might look very different at the end of this process than at the start. This is good! 
 
 In class, we will continue working on skills around interpreting data and using it to tell stories and build convincing arguments. There will also be in-class tutorial help available for your team, to help you plan your activity in this phase and work with the data you are collecting. 
 
 ### How is this different than the Design Sprint?
 
-In one sentence, the [Sprint]({{ site.baseurl }}/sprint) was broad but shallow, while Design Development is more tightly focussed, deeper, and more concerned with details.  The Design Sprint was trying to find out as much as possible, as quickly as possible, because you didn't know yet what might be particularly interesting or useful within your sub-theme. A main goal was to identify several problems or questions, for which your team might propose several initial ideas. By the start of the Design Development, your should have narrowed down to **one** problem area or question, by continuing to build on and refine work started in the Sprint. You should now have an idea about a possible solution, and during Development your team will develop this initial idea into a proof-of-concept design. 
+In one sentence, the [Sprint]({{ site.baseurl }}/design_sprint/) was broad but shallow, while Design Development is more tightly focussed, deeper, and more concerned with details.  The Design Sprint was trying to find out as much as possible, as quickly as possible, because you didn't know yet what might be particularly interesting or useful within your sub-theme. A main goal was to identify several problems or questions, for which your team might propose several initial ideas. By the start of the Design Development, your should have narrowed down to **one** problem area or question, by continuing to build on and refine work started in the Sprint. You should now have an idea about a possible solution, and during Development your team will develop this initial idea into a proof-of-concept design. 
 
 ### Determining *what to do is* central to Design Development!
 

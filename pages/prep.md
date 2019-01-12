@@ -35,7 +35,7 @@ and giving each other feedback throughout the course. Part of the point of a
 sprint is to exchange expertise, viewpoints and ideas, to make mistakes, and to
 try new things.
 
-There will be two separate design phases as a part of DDC: a [Discovery Sprint (Phase 1)]({{ site.baseurl }}/fast_hack)
+There will be two separate design phases as a part of DDC: a [Design Sprint (Phase 1)]({{ site.baseurl }}/design_sprint/)
 intended to explore our theme (below), identify specific problems and generate
 ideas, and a [Development Phase (Phase 3)]({{ site.baseurl }}/slow_hack) intended to develop a single design in more
 depth, over a longer period of time.

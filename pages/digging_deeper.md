@@ -15,7 +15,7 @@ permalink: "/digging_deeper/"
 
 ## Description
 
-This phase is the transition between the initial information-gathering and problem exploration in the  [Discovery Sprint]({{ site.baseurl }}/sprint/), and developing a single, more thought-through solution during the [Developing phase (Phase 3)]({{ site.baseurl }}/slow_hack/). Your team will continue to discuss, process and build on the information gained in the Discovery Sprint, through a combination of individual, group, and class activities.
+This phase is the transition between the initial information-gathering and problem exploration in the  [Discovery Sprint]({{ site.baseurl }}/design_sprint/), and developing a single, more thought-through solution during the [Developing phase (Phase 3)]({{ site.baseurl }}/slow_hack/). Your team will continue to discuss, process and build on the information gained in the Discovery Sprint, through a combination of individual, group, and class activities.
 
 To gain the skills and information needed to conduct a larger and more sophisticated version of the Fast Hack, we will “dig deeper” into the topics we introduced in Phases 0 and 1. These topics include data formats, data management, and extracting information from raw data; and also ethics, privacy, and methods for working with stakeholders (and analysing the results). This will involve a combination of class exercises and lectures, videos, readings, and interactive IPython online notebooks. 
 
