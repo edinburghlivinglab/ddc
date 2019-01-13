@@ -1,10 +1,22 @@
 ---
 layout: page
-title: "Reading List"
-subheadline: ""
-teaser: ""
+title: "Recommended Reading"
 permalink: "/reading_list/"
 ---
+
+## Circular Economy Resources
+
+* [The Helen MacArthur Foundation] [https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources)
+* Zero Waste Scotland [Circular Economy Report](http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
+
+## Open Data Portals
+
+The following open data portals may contain datasets that are useful.
+
+* [data.gov.uk](https://data.gov.uk/data/search)
+* [statistics.gov.scot](http://statistics.gov.scot)
+* [Glasgow Open Data Portal](https://data.glasgow.gov.uk/dataset)
+* [Edinburgh Open Data Portal](http://data.edinburghopendata.info/dataset)
 
 ## <a name="essential">Recommended Reading</a>
 
