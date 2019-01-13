@@ -13,25 +13,10 @@ We recommend some of the following documents, but the particular ones that you c
 * [The Helen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources)
 * Mary Douglas [Purity and Danger: An Analysis of Concepts of Pollution and Taboo](https://discovered.ed.ac.uk/primo-explore/search?query=any,contains,Mary%20Douglas%20purity%20%20and%20danger&search_scope=default_scope&sortby=date&vid=44UOE_VU2&facet=frbrgroupid,include,1310796064&offset=0)
 
-
-
-## Open Data Portals
-
-The following open data portals may contain datasets that are useful.
-
-* [data.gov.uk](https://data.gov.uk/data/search)
-
-
-#### Circular Economy Resources
-
-* [The Helen MacArthur Foundation] (https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources) has a wealth of reports and resources on the circular economy.
-* Zero Waste Scotland [Circular Economy Report] (http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
-* Mary Douglas, [Purity and Danger: An Analysis of Concepts of Pollution and Taboo] (https://discovered.ed.ac.uk/primo-explore/search?query=any,contains,Mary%20Douglas%20purity%20%20and%20danger&search_scope=default_scope&sortby=date&vid=44UOE_VU2&facet=frbrgroupid,include,1310796064&offset=0)
-
 #### Design Thinking and Participatory Design
 
 * Merholz M (2013)[The Double Diamond Model of Product Definition and Design](http://www.peterme.com/2013/09/26/the-double-diamond-model-of-product-definition-and-design/)
-* [Open Design Now] (http://opendesignnow.org/index.html%3Fp=405.html)
+* [Open Design Now](http://opendesignnow.org/index.html%3Fp=405.html)
 * Muller, M J (2003) [Participatory design: the third space in HCI]({{ site.baseurl }}/course_docs/Muller2003.pdf), 
   chapter in *Human-computer interaction: Development process*, 4235.
 * Spinzzi, C (2005) [The methodology of participatory design](https://repositories.lib.utexas.edu/bitstream/handle/2152/28277/SpinuzziTheMethodologyOfParticipatoryDesign.pdf), *Technical Communication*, 52(2), 163-174.
