@@ -25,9 +25,9 @@ We recommend some of the following documents, but the particular ones that you c
 
 #### Designing for Change
 
-* Tactical Tech [Info-activism](https://tacticaltech.org/themes/info-activism/)
-* [Theory of Change] (https://www.theoryofchange.org/what-is-theory-of-change/)
-* Design Justice [Zines 1-3] (http://designjusticenetwork.org/zine/)
+* Tactical Tech: [Info-activism](https://tacticaltech.org/themes/info-activism/)
+* [Theory of Change](https://www.theoryofchange.org/what-is-theory-of-change/)
+* Design Justice: [Zines 1-3](http://designjusticenetwork.org/zine/)
 
 #### Ethics, Privacy and Data Management
 
