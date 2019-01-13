@@ -8,6 +8,7 @@ permalink: "/reading_list/"
 
 * [The Helen MacArthur Foundation] (https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources)
 * Zero Waste Scotland [Circular Economy Report](http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
+* [The Helen MacArthur Foundation (https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources)
 
 ## Open Data Portals
 
