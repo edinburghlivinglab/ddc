@@ -3,13 +3,16 @@ layout: page
 title: "Recommended Reading"
 permalink: "/reading_list/"
 ---
+## <a name="essential">Recommended Reading</a>
+
 We recommend some of the following documents, but the particular ones that you choose will depend on the specific details of your project.
 
-## Circular Economy Resources
+#### Circular Economy Resources
 
 * Zero Waste Scotland [Circular Economy Report](http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
 * [The Helen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources)
-* [Mary Douglas](Purity and Danger: An Analysis of Concepts of Pollution and Taboo] (https://discovered.ed.ac.uk/primo-explore/search?query=any,contains,Mary%20Douglas%20purity%20%20and%20danger&search_scope=default_scope&sortby=date&vid=44UOE_VU2&facet=frbrgroupid,include,1310796064&offset=0)
+* Mary Douglas [Purity and Danger: An Analysis of Concepts of Pollution and Taboo](https://discovered.ed.ac.uk/primo-explore/search?query=any,contains,Mary%20Douglas%20purity%20%20and%20danger&search_scope=default_scope&sortby=date&vid=44UOE_VU2&facet=frbrgroupid,include,1310796064&offset=0)
+
 
 
 ## Open Data Portals
@@ -17,13 +20,7 @@ We recommend some of the following documents, but the particular ones that you c
 The following open data portals may contain datasets that are useful.
 
 * [data.gov.uk](https://data.gov.uk/data/search)
-* [statistics.gov.scot](http://statistics.gov.scot)
-* [Glasgow Open Data Portal](https://data.glasgow.gov.uk/dataset)
-* [Edinburgh Open Data Portal](http://data.edinburghopendata.info/dataset)
 
-## <a name="essential">Recommended Reading</a>
-
-We recommend some of the following documents, but the particular ones that you choose will depend on the specific details of your project.
 
 #### Circular Economy Resources
 
