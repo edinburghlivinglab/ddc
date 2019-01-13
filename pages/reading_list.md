@@ -6,7 +6,7 @@ permalink: "/reading_list/"
 
 ## Circular Economy Resources
 
-* [The Helen MacArthur Foundation] [https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources)
+* [The Helen MacArthur Foundation] (https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources)
 * Zero Waste Scotland [Circular Economy Report](http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
 
 ## Open Data Portals
