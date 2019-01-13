@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Reading List"
+title: "Local Initatives"
 subheadline: ""
 teaser: ""
-permalink: "/reading_list/"
+permalink: "/initiatives/"
 ---
 
 ## <a name="essential">Recommended Reading</a>
