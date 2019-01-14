@@ -22,7 +22,7 @@ permalink: "/assignment_r2/"
         </tr>
          <tr>
             <td><b>Where to submit</b>:</td>
-            <td>On Learn as <a href="https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_45101_1&handle=announcements_entry&mode=view">Individual Report R2</a></td>
+            <td>ELMA</td>
         </tr>
     </table>
 </div>
