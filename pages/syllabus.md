@@ -149,7 +149,7 @@ permalink: "/syllabus/"
                 <td><a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">FG Slides</a><br />
                     <br /><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br />
-                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a><br/><a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a>
                 </td>
                 <td>1. <a href="http://methods.sagepub.com.ezproxy.is.ed.ac.uk/base/download/BookChapter/the-data-revolution/n1.xml">Conceptualising Data</a> by Kitchin <br/>2. “Database as genre" by Ed Folsom (access in Learn)
                 </td>
@@ -157,7 +157,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>15-Feb-2019</td>
                 <td>Data Management &amp; Team Tutorial</td>
-                <td><a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br />
+                <td>
                     <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a></td>
                 <td>1. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br />
                     2. <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron</a> by Lisa Gitelman and Virginia Jackson, pp 1-14</td>
@@ -191,7 +191,7 @@ permalink: "/syllabus/"
                 <td>1. Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)<br/>2. <a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technical to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
             </tr>
             <tr>            
-                <td rowspan="2">8</td>
+                <td rowspan="2">7</td>
                 <td>06-Mar-2019</td>
                 <td>Finding and Using Existing Data</td>
                 <td>&nbsp;</td>
