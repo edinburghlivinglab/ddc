@@ -47,9 +47,7 @@ permalink: /index.html
 ---
 
 **Data, Design and the City** is a new sort of course that combines
-interdisciplinary teamwork with practice-based challenges. It is a
-collaboration between the School of Informatics, Social and Political
-Studies, and Design Informatics.
+interdisciplinary teamwork with practice-based challenges. It is offered by Science, Technology, and Innovation Studies within the School of Social and Political Sciences.
 
 In today’s economy, students need the skills to work together with
 people across different disciplines, and are likely to be confronted
@@ -71,7 +69,7 @@ processes. The course will give you the opportunity to take your
 learning out of the classroom into the University community.
 
 **Data, Design and the City**
-([INFR08024](https://path.is.ed.ac.uk/courses/INFR08024_SV1_SEM2)) is
+([STIS08006](http://www.drps.ed.ac.uk/18-19/dpt/cxstis08006.htm)) is
 a 20pt Level 8 course. There are no prerequisites, but you should
 be prepared to ask lots of questions, to go out and talk to people, 
 to work with simple data analysis tools, and to experiment with change.
@@ -80,7 +78,7 @@ to work with simple data analysis tools, and to experiment with change.
 
 The information contained in these webpages constitutes the DDC course
 handbook. However, you can also get 
-[this information as a single PDF file]({{ site.baseurl }}/course_docs/handbook.pdf). 
+[this information as a document](https://www.learn.ed.ac.uk/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_3612456_1&course_id=_66780_1&framesetWrapped=true). 
 Note that the [week-by-week syllabus]({{ site.baseurl }}/syllabus#weekbyweek)
 is only available online, since details may change or be added as we go
 through the semester.
