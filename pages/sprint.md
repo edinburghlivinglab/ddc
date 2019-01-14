@@ -12,9 +12,9 @@ permalink: "/design_sprint/"
 
 ## Key Dates
 
-**Design Sprint event**: Beginning Wednesday 30th January 2019  
-**Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Wednesday 6 February 2019  
-**Design Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 11th February 2019  
+**Design Sprint event**: Beginning Friday 1st February 2019  
+**Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Friday 8 February 2019  
+**Design Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Wednesday, 13th February 2019  
 
 
 ## Description
