@@ -10,7 +10,7 @@ permalink: "/assignment_r1/"
         <caption>Submission Details</caption>
         <tr>
             <td><b>Deadline</b>:</td>
-            <td>16:00, Monday 11 Feb 2019</td>
+            <td>16:00, Wednesday 13 Feb 2019</td>
         </tr>
         <tr>
             <td><b>Weight</b>:</td>
@@ -22,7 +22,7 @@ permalink: "/assignment_r1/"
         </tr>
          <tr>
             <td><b>Where to submit</b>:</td>
-            <td>On ELMA</td>
+            <td>On Learn</td>
         </tr>
     </table>
 </div>
