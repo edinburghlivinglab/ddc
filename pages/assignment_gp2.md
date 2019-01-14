@@ -21,7 +21,7 @@ The presentation will be assessed primarily in terms of how effectively you comm
 
 This assignment counts for 25% of total course marks. Every team member will receive the same mark for the presentation, on condition that he/she gives part of the presentation. (This condition will only be waived in exceptional circumstances.)
 
-**Important**: The team representative should upload a PDF version of the slides to [Learn](https://www.learn.ed.ac.uk/webapps/assignment/uploadAssignment?content_id=_1708518_1&course_id=_45101_1&assign_group_id=&mode=view) by **16:00, Wednesday 23rd March**.
+**Important**: The team representative should upload a PDF version of the slides to [Learn](https://www.learn.ed.ac.uk/webapps/assignment/uploadAssignment?content_id=_1708518_1&course_id=_45101_1&assign_group_id=&mode=view) by **16:00, Wednesday 27th March**.
 
 
 ### Guidance on Presentations
