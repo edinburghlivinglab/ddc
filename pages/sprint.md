@@ -32,7 +32,7 @@ In order to propose a design-led solution to a problem, you must first identify 
 
 During the Discovery Sprint, you are a detective. Just as a detective must go to places and speak to people in order to understand "what happened" and why, you must leave the classroom and spend time in the Edinburgh community to understand what's happening (and why) on your chosen sub-theme. While you and your team members may already have experiences around recycling and upcycling, it is very important not **only** to rely on your team's pre-existing ideas. Try to look at familiar things with "fresh eyes", as though you were visiting an unknown place or culture. Question things that seem given, or obvious.
 
-Although we have identified a number of Circular Economy [sub-themes]({{ site.baseurl }}/project_overview),  each of these is still pretty broad. Your team will need to think about your interest and priorities within your chosen sub-theme. You will need to plan:
+Although we have identified a number of Circular Economy [sub-themes]({{ site.baseurl }}/project_ideas),  each of these is still pretty broad. Your team will need to think about your interest and priorities within your chosen sub-theme. You will need to plan:
 
 * Where to go during the Design Sprint.
 * Who to talk to &mdash; may be teams, individuals, organisations.
@@ -43,7 +43,7 @@ At the same time as planning how to use your time, you should be ready to follow
 
 Some starting information for the Design Sprint is available here:
 
-* [Local Food and Sustainability initiatives]({{ site.baseurl }}/initiatives)
+* [Local Circular Economy initiatives]({{ site.baseurl }}/initiatives)
 * [Existing datasets]({{ site.baseurl }}/datasets)
 * [Reading List]({{ site.baseurl }}/reading_list)
 
