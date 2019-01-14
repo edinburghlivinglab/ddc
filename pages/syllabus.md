@@ -20,7 +20,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>Fridays</td>
-                <td>10:00&ndash;12:00</td>
+                <td>9:00&ndash;10:50</td>
             </tr>
         </table>
     </div>
@@ -34,7 +34,7 @@ permalink: "/syllabus/"
         </tr>
         <tr>
             <td>Wednesday, 30th January 2019</td>
-            <td>Rm 7 George Square S.1</td>
+            <td>Lister Learning and Teaching Centre 5.1</td>
         </tr>
         <tr>
             <td>Wednesday, 20th February & Wednesday 13th March 2019</td>
@@ -42,7 +42,7 @@ permalink: "/syllabus/"
         </tr>
         <tr>
             <td>All other Wednesday class meetings</td>
-            <td>Appleton Tower 2.14</td>
+            <td>Lister Learning and Teaching Centre room G.09</td>
         </tr>
     </table>
 </div>
