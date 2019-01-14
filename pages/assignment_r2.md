@@ -10,7 +10,7 @@ permalink: "/assignment_r2/"
         <caption>Submission Details</caption>
         <tr>
             <td><b>Deadline</b>:</td>
-            <td>16:00, Friday 1 April 2016</td>
+            <td>16:00, Thursday 4 April 2016</td>
         </tr>
         <tr>
             <td><b>Weight</b>:</td>
