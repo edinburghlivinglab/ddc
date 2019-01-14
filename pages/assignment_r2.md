@@ -30,8 +30,8 @@ permalink: "/assignment_r2/"
 
 **General instructions** 
 
-* Assume that you are writing your report for a general reader --- someone who has not been involved in the DDS course and has little knowledge of, or interest in, sustainability. 
-* Your report should be at least 2,500 words long but no more than 3,000 words. You may in addition provide an appendix if you wish (e.g., to list a questionnaire or to give details of data that was collected), but you are not required to do so. An appendix will not count towards the word limit.
+* Assume that you are writing your report for a general reader --- someone who has not been involved in the DDC course and has little knowledge of, or interest in, sustainability. 
+* Your report should be at least 1,500 words long but no more than 2,500 words. You may in addition provide an appendix if you wish (e.g., to list a questionnaire or to give details of data that was collected), but you are not required to do so. An appendix will not count towards the word limit.
 * **Important**: this [assessment guidance]({{ site.baseurl }}/course_docs/R2_assessment_guidance.pdf) spells out the criteria that will be used for awarding marks for each section. Read it **before** starting your report!
 * The remainder of this document is a skeleton that lists and explains the content that you should aim to include in your report. You **must** use these section headers in your report; you may add further sub-headings if you wish. Note that the maximum available marks differ for each section and that Section 3 is worth 45%.
 
