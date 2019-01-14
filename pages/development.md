@@ -9,7 +9,7 @@ permalink: "/development/"
 ## Key Dates
 
 **Last day for data collection**: Friday 15th March 2019   
-**PD activity with stakeholders**: your team must schedule this between 25th February and 11th March 
+**PD activity with stakeholders**: your team must schedule this between 1st March and 15th March 
 
 ## Description
 
