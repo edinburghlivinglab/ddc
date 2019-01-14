@@ -9,7 +9,7 @@ This assignment is an in-class group presentation to be made by your team. Each 
 The presentation should last 12 minutes, so please rehearse in advance and make sure you don't go over time.
 
 The presentation should address three questions, using as many forms of
-information as you can reasonably collect during the [Fast Hack]({{ site.baseurl }}/fast_hack/):
+information as you can reasonably collect during the [Design Sprint]({{ site.baseurl }}/sprint/):
 
 1. What is the existing situation in the University as regards to your Food and Sustainability sub-theme? Where are we starting from &mdash; what is happening (or not
 happening) right now?
