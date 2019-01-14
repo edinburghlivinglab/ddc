@@ -11,18 +11,18 @@ The presentation should last 12 minutes, so please rehearse in advance and make 
 The presentation should address three questions, using as many forms of
 information as you can reasonably collect during the [Design Sprint]({{ site.baseurl }}/sprint/):
 
-1. What is the existing situation in the University as regards to your Food and Sustainability sub-theme? Where are we starting from &mdash; what is happening (or not
+1. What is the existing situation in the City as regards to your Circular Economy sub-theme? Where are we starting from &mdash; what is happening (or not
 happening) right now?
 
-2. What are some of the specific Food and Sustainability problems you might be
+2. What are some of the specific Circular Economy problems you might be
 able to address within this sub-theme?
 
-3. What are some possible interventions for changing the existing situation into a preferred one (i.e. improving some aspect of food-related sustainability)?
+3. What are some possible interventions for changing the existing situation into a preferred one (i.e. awareness campaigns, a digital platform for sharing or recycling, a physical space such as a library of things)?
 
 In the presentation, your team needs to be able to explain what data and other
 information you collected or found, what kind of information it is, and how
 the answers to your three questions (current state, possible problems,
-possible interventions) are based on your Fast Hack information. Be ready to
+possible interventions) are based on your Design Sprint information. Be ready to
 explain how, where, and when you collected this information.
 
 You are encouraged to make your presentations visual&mdash;use photos,
