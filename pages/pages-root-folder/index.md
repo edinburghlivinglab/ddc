@@ -78,7 +78,7 @@ to work with simple data analysis tools, and to experiment with change.
 
 The information contained in these webpages constitutes the DDC course
 handbook. However, you can also get 
-[this information as a document](https://www.learn.ed.ac.uk/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_3612456_1&course_id=_66780_1&framesetWrapped=true). 
+[this information as a Word doc](https://www.learn.ed.ac.uk/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_3612456_1&course_id=_66780_1&framesetWrapped=true). 
 Note that the [week-by-week syllabus]({{ site.baseurl }}/syllabus#weekbyweek)
 is only available online, since details may change or be added as we go
 through the semester.
