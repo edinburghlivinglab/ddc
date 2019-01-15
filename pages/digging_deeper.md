@@ -9,7 +9,7 @@ permalink: "/digging_deeper/"
 
 ## Key Dates
 
-**Stakeholder focus groups**: to be scheduled in week commencing 11th February 2019  
+**Stakeholder focus groups**: to be scheduled between 11th February and 20th February 2019  
 **Design Sprint individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 11th February 2019   
 **Innovative Learning Week (no class)**: week commencing 18th February 2019
 
