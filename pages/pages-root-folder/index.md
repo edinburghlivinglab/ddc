@@ -83,6 +83,7 @@ Note that the [week-by-week syllabus]({{ site.baseurl }}/syllabus#weekbyweek)
 is only available online, since details may change or be added as we go
 through the semester.
 
-
+## Twitter feed of relevant news items and sources for this year's course
+<a class="twitter-timeline" href="https://twitter.com/CourseDdc?ref_src=twsrc%5Etfw">Tweets by CourseDdc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
