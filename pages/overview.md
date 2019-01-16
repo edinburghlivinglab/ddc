@@ -144,9 +144,7 @@ addition, you are required to use some **existing** data and also to
 You will be working with the City of Edinburgh as your focus, research area and canvas for intervention. Why the City? Cities, small and large, are where most of the world's population live, and where there is the most intensive production and consumption of goods and services. We can think of it an an ecosystem that is natural, designed, economic, technological, and social. Each city has its own history, culture and geography that shaped its present and will continue to shape its future. You will be exploring the forces that have shaped how the city of Edinburgh works, focusing on production consumption and waste, and the organisations trying to change thing, and resisting change.You will learn about the laws and institutions that govern the city, where its wealth comes from and how it is distributed, the routines and expectations of its population, and the barriers to change.
 
 
-## Twitter Feed
 
-<a class="twitter-timeline" href="https://twitter.com/CourseDdc?ref_src=twsrc%5Etfw">Tweets by CourseDdc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 
