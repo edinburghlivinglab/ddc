@@ -83,7 +83,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>16-Jan-2019</td>
                 <td>Course Overview</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week1-1.pptx" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week1-1.pptx" target="_blank">Slides 1</a><br/><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a></td>
                 <td><a href="https://www.nature.com/news/the-circular-economy-1.19594">The Circular Economy</a> by Walter R. Sahel</td>
             </tr>
             <tr>
