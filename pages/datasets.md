@@ -8,6 +8,11 @@ permalink: "/datasets/"
 
 * Edinburgh Council's [Communal Waste Collection Assets](https://data.edinburghopendata.info/dataset/communal-waste-collection-assets)
 * Edinburgh Council's [Litter Bins](https://data.edinburghopendata.info/dataset/litter-bins0515v)
+* [National Packaging Waste Database](https://npwd.environment-agency.gov.uk/Public/PublicReports.aspx)
+* [Scottish household waste data](https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/household-waste-data/)
+* Recoup, [UK Household Plastics Collection Survey 2018](http://www.recoup.org/p/324/uk-household-plastics-collection-survey-2018)
+* WRAP, PlasticFlow 2025, [Plastic Packaging Flow Data Report](http://www.wrap.org.uk/content/plasticflow-2025-plastic-packaging-flow-data-report)
+ 
 
 ## Open Data Portals
 
