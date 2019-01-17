@@ -12,6 +12,12 @@ We recommend some of the following documents, but the particular ones that you c
 * [The Helen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources) - a website with many resources, including reports and activities
 * Zero Waste Scotland's [Circular Economy Report](http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
 * Mary Douglas, [Purity and Danger: An Analysis of Concepts of Pollution and Taboo](https://discovered.ed.ac.uk/primo-explore/search?query=any,contains,Mary%20Douglas%20purity%20%20and%20danger&search_scope=default_scope&sortby=date&vid=44UOE_VU2&facet=frbrgroupid,include,1310796064&offset=0)
+* The Helen MacArthur Foundation, [The New Plastics Economy: Rethinking the future of plastics & Catalysing action](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/NPEC-Hybrid_English_22-11-17_Digital.pdf) - a website with many resources, including reports and activities
+* Edinburgh Council Transport and Environment Committee,[Single-use plastics](www.edinburgh.gov.uk/download/meetings/id/58087/item_713_-_single_use_plastics)
+* Environmental Investigation Agency & Greenpeace, [Checking out on plastics – A survey of UK
+supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads/Checking-out-on-plastics.pdf)
+* Greenpeace, [A crisis of convenience - The corporations behind the plastic pollution pandemic](https://www.greenpeace.org/international/publication/19007/a-crisis-of-convenience-the-corporations-behind-the-plastics-pollution-pandemic/)
+* WRAP, [A Roadmap to 2025 - The UK Plastics Pact](http://www.wrap.org.uk/content/the-uk-plastics-pact-roadmap-2025)
 
 #### Design Thinking and Participatory Design
 
