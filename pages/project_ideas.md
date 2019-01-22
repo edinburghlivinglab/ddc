@@ -19,5 +19,5 @@ Here are some course sub-themes and project examples to help you with your desig
 
 ## Project Examples
 
-* SHRUB [Food Sharing Hub] (https://www.facebook.com/events/274843619898688) (part of Zero Waste Scotland)
-* [Trash Track] (http://senseable.mit.edu/trashtrack/index.php)
+* The SHRUB [Food Sharing Hub](https://www.facebook.com/events/274843619898688)  
+* [Trash Track](http://senseable.mit.edu/trashtrack/index.php) 
