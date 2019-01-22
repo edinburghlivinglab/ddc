@@ -89,7 +89,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>18-Jan-2019</td>
                 <td>Investigating recycling,<br />upcycling, and the circular economy</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a><br/><a href="{{ site.baseurl }}/course_docs/Transition_Edinburgh_slides.pptm" target="_blank">Transition Edinburgh slides</a></td>
                 <td>1. <a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-in-the-Circular-Economy-The-Role-of-Digital-Tech.pdf">Cities in the Circular Economy - the Role of Digital Tech</a> by the Ellen MacArthur Foundation.<br />
                     2. <a href="https://unearthed.greenpeace.org/2018/10/21/uk-household-plastics-found-in-illegal-dumps-in-malaysia/">Greenpeace Report on Illegal UK Plastics Dumping</a></td>
             </tr>
