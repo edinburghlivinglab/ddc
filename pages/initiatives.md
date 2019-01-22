@@ -28,3 +28,4 @@ Here are some local resources that can serve as sites of research.
 #### <a name="essential">Sustainability Advocacy</a>
 * [Transition Edinburgh](https://transitionedinburgh.org.uk)
 * [Zero Waste Scotland](http://www.zerowastescotland.org.uk)
+* [Engineering for Change] at UofE (https://www.facebook.com/Engineering4Change/)
