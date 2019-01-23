@@ -19,5 +19,6 @@ Here are some course sub-themes and project examples to help you with your desig
 
 ## Project Examples
 
-* The SHRUB [Food Sharing Hub](https://www.facebook.com/events/274843619898688)  
-* [Trash Track](http://senseable.mit.edu/trashtrack/index.php) 
+* The SHRUB [Food Sharing Hub](https://www.shrubcoop.org/what-we-do/food-sharing-edinburgh/) - redistributes good quality excess food from businesses to the community
+* [Trash Track](http://senseable.mit.edu/trashtrack/index.php) - MIT project that tracked waste across the United States using RFID tags
+* [Precious Plastic](https://preciousplastic.com) - designs tools to make it easier to recycle plastic
