@@ -5,9 +5,16 @@ permalink: "/videos/"
 ---
 
 <div class="t30">
-
+<p>Useful videos on product and service design and pitching on Youtube.
+     <div class="flex-video">
+                <iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLgYVkkPI5EOcLBLtj7abLJi3LBSH_kCAO" frameborder="0"  " allowfullscreen></iframe>
+                	
+                </iframe>
+            </div>
+    
 <p>
-Double-click on the thumbnail to enter full-screen mode.
+Videos made for this course   </p>
+<p> Double-click on the thumbnail to enter full-screen mode.</p>
 </p>
     <ul class="small-block-grid-2">
         <li>
