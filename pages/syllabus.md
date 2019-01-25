@@ -97,7 +97,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">2</td>
                 <td>23-Jan-2019</td>
                 <td>Design thinking in the field</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week2-1.pptx" target="_blank">W2 Slides 1</a><br/><a href="{{ site.baseurl }}/course_docs/week2-2.pptx" target="_blank">W2 Slides 2</a><br/><a href="https://docs.google.com/presentation/d/1tYPugL8mu-sAKZjq8D2hB2_TxdHZMDpvIWA_lutMqoA/edit#slide=id.p">Anton Puzorjov</a><br/><a href="{{ site.baseurl }}/course_docs/design_ethnography_2019.pptx" target="_blank">Sampsa Slides</a>Sampsa slides</td>
+                <td><a href="{{ site.baseurl }}/course_docs/week2-1.pptx" target="_blank">W2 Slides 1</a><br/><a href="{{ site.baseurl }}/course_docs/week2-2.pptx" target="_blank">W2 Slides 2</a><br/><a href="https://docs.google.com/presentation/d/1tYPugL8mu-sAKZjq8D2hB2_TxdHZMDpvIWA_lutMqoA/edit#slide=id.p">Anton Puzorjov</a><br/><a href="{{ site.baseurl }}/course_docs/design_ethnography_2019.pptx" target="_blank">Sampsa Slides</a></td>
                 <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
                     2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br />
                     3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a> - Ch. 1 pp. 3-13
