@@ -5,7 +5,7 @@ permalink: "/reading_list/"
 ---
 ## <a name="essential">Recommended Reading</a>
 
-We recommend some of the following documents, but the particular ones that you choose will depend on the specific details of your project.
+We recommend some of the following documents and websites, but the particular ones that you choose will depend on the specific details of your project.
 
 #### Circular Economy Resources
 
@@ -40,6 +40,9 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * Gray, D E (2014) [Research Ethics](https://www.learn.ed.ac.uk/bbcswebdav/pid-1708410-dt-content-rid-3168707_1/xid-3168707_1), Chapter 4, *Doing research in the real world*. Los Angeles, SAGE.
 * Alcorn, A M (2015) [Research Ethics: Orientation]({{ site.baseurl }}/course_docs/Research-ethics_D4I_2015_final.pdf). Course slides for *Design for Informatics*.
 * Information Commissioner's Office (2012) [Anonymisation Code of Practice](https://ico.org.uk/media/for-organisations/documents/1061/anonymisation-code.pdf)
+* University of Edinburgh, School of Social and Political Sciences [Research Ethics](http://www.sps.ed.ac.uk/research/research_ethics)
+* UK Research Integrity Office [Code of Practice for Research](https://ukrio.org/publications/code-of-practice-for-research/). 
+* University of Edinburgh [Research Under the General Data Protection Regulation](https://www.ed.ac.uk/files/atoms/files/researchgdpr_0.pdf)
 
 ### Data Visualisation
 
