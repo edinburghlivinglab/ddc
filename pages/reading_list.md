@@ -43,6 +43,7 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * University of Edinburgh, School of Social and Political Sciences [Research Ethics](http://www.sps.ed.ac.uk/research/research_ethics)
 * UK Research Integrity Office [Code of Practice for Research](https://ukrio.org/publications/code-of-practice-for-research/). 
 * University of Edinburgh [Research Under the General Data Protection Regulation](https://www.ed.ac.uk/files/atoms/files/researchgdpr_0.pdf)
+* University of Edinburgh [Research Data Management Policy](https://www.ed.ac.uk/information-services/about/policies-and-regulations/research-data-policy)
 
 ### Data Visualisation
 
