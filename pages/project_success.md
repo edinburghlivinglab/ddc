@@ -9,7 +9,7 @@ a certain amount of  technology, or getting certain results. It is almost
 entirely about your team participating in and reflecting on different parts of
 a design process, as you develop a potential solution to a problem. Recycling, Upcycling and the Circular Economy are large and complex issues that doen't admit easy solutions,
 let alone in one semester. Although much of our education encourages us to
-find the right answer, making the transition to a more sustainable food system
+find the right answer, making the transition to a more sustainable society
 isn't that kind of problem &mdash; there is no right answer. Instead, we are
 asking you do develop a design that could *potentially* make a difference on
 your chosen problem.
@@ -49,7 +49,7 @@ Relates to learning objectives:
 would be able to understand, and convince the audience that the design may be able to answer the 
 team's particular question or solve the problem.
 
-2. Be able to show that you have used two types of required data in the project, and have analysed and 
+2. Be able to show that you have used qualitative and quantitative data in the project, and have analysed and 
 presented them in an appropriate and relevant way that supports your design idea.
 
 3. Show an attempt to connect the group's problem choice and final design back to wider circular economy issues and policies (e.g. University and City Chamber).
