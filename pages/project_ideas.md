@@ -22,3 +22,4 @@ Here are some course sub-themes and project examples to help you with your desig
 * The SHRUB [Food Sharing Hub](https://www.shrubcoop.org/what-we-do/food-sharing-edinburgh/) - redistributes good quality excess food from businesses to the community
 * [Trash Track](http://senseable.mit.edu/trashtrack/index.php) - MIT project that tracked waste across the United States using RFID tags
 * [Precious Plastic](https://preciousplastic.com) - designs tools to make it easier to recycle plastic
+* [The Climate Challenge Fund](https://www.keepscotlandbeautiful.org/sustainability-climate-change/climate-challenge-fund/) has many examples of projects that reduce local carbon emissions
