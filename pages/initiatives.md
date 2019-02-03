@@ -24,6 +24,7 @@ Here are some local resources that can serve as sites of research.
 
 * [One Cherry](https://onecherry.co.uk) - for charity shops
 * [MyTurn](https://myturn.com) - for libraries of things
+* [The Shrub](https://www.shrubcoop.org/)  The Shrub Swap and Reuse Hub is a community-led cooperative based in Edinburgh
 
 #### <a name="essential">Sustainability Advocacy, funding,service, innovation</a>
 * [Transition Edinburgh](https://transitionedinburgh.org.uk)
@@ -37,3 +38,7 @@ Here are some local resources that can serve as sites of research.
 
 * [City of Edinburgh Waste services - Reuse and reduce advice and services](http://www.edinburgh.gov.uk/info/20001/bins_and_recycling/415/reduce_and_reuse_waste)
 
+#### Other
+* [Bikes for Refugees](http://www.bikesforrefugees.scot/)
+* [Bike Station Edinburgh](https://thebikestation.org.uk/edinburgh/)
+* [Freegle](https://www.ilovefreegle.org/) online give away platform working in edinburgh.
