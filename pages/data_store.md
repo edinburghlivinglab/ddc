@@ -22,12 +22,7 @@ Once you have established a connection to the DataStore DDC folder, you should b
 3. In the **Folder** box, type the following address for the DDC folder:
 ```
 U:\Datastore\CHSS\sps\groups\DDC
-
-or
-
-\\chss.datastore.ed.ac.uk\chss\sps\groups\DDC
 ```
-
 4. Authenticate by entering ED\UUN (where 'UUN' is your University login name) and your corresponding password.
 
 If you are using a University supported Windows desktop machine, the main network shares you have access to should automatically be connected.
@@ -37,29 +32,12 @@ If you are using a University supported Windows desktop machine, the main networ
 1. In the Finder, select **Go** from the menu bar at the top of the desktop, then select **Connect to Server**... 
 2. In the **Connect to Server** window, type the following address for the DDC folder: 
 ```
-smb://chss.datastore.ed.ac.uk/chss/sps/groups/DDC
+\\chss.datastore.ed.ac.uk\chss\sps\groups\DDC 
 ``` 
 3. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
 
-### DICE (and other Linux platforms)
 
-1. Open the Files graphical file manager (which is the default on the Gnome desktop).
-2. Select **Connect to Server** option in the lefthand menu.
-3. In the **Server Address** window, type the following address of the DDC folder:
-```
-
-```
-4. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
-
-If you use a different file manager, you may need to enter the server address in a different manner. For example, in Dolphin, you need to turn on the **Editable Location** option in the navigation bar before entering the server address.
-
- 
 <!--
 
 https://www.wiki.ed.ac.uk/display/ecdfwiki/DataStore+service
 https://www.wiki.ed.ac.uk/display/ecdfwiki/DataStore+-+General+Instructions#DataStore-GeneralInstructions-ManagingAccessPermissions
-
-
-
-http://www.ed.ac.uk/records-management/records-management/staff-guidance/technical-guidance/storage-standards
--->
