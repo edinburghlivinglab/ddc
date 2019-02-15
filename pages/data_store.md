@@ -36,8 +36,14 @@ If you are using a University supported Windows desktop machine, the main networ
 ``` 
 3. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
 
-
 <!--
 
 https://www.wiki.ed.ac.uk/display/ecdfwiki/DataStore+service
 https://www.wiki.ed.ac.uk/display/ecdfwiki/DataStore+-+General+Instructions#DataStore-GeneralInstructions-ManagingAccessPermissions
+
+
+
+http://www.ed.ac.uk/records-management/records-management/staff-guidance/technical-guidance/storage-standards
+-->
+
+ 
