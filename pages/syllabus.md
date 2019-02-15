@@ -129,7 +129,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">4</td>
                 <td>06-Feb-2019</td>
                 <td>Fieldwork and Presentation Prep</td>
-                <td></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week4-1.pptx" target="_blank">W4 Slides 1</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -145,7 +145,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">5</td>
                 <td>13-Feb-2019</td>
                 <td>Data &amp; Focus Groups</td>
-                <td><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br />
+                <td><a href="{{ site.baseurl }}/course_docs/week5-1.pptx" target="_blank">W5 Slides 1</a><br /><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a><br/><a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a>
                 </td>
@@ -156,7 +156,7 @@ permalink: "/syllabus/"
                 <td>15-Feb-2019</td>
                 <td>Data Management &amp; Team Tutorial</td>
                 <td>
-                    <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a></td>
+                    <a href="{{ site.baseurl }}/course_docs/week5-2.pptx" target="_blank">W5 Slides 2</a><br /><a href="{{ site.baseurl }}/data_store">DataStore Instructions</a></td>
                 <td>1. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>, ch. 4, pp. 43-56<br />
                     2. <a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction to Raw Data is an Oxymoron</a> by Lisa Gitelman and Virginia Jackson, pp 1-14</td>
             </tr>
