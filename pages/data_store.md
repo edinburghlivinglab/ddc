@@ -32,7 +32,7 @@ If you are using a University supported Windows desktop machine, the main networ
 1. In the Finder, select **Go** from the menu bar at the top of the desktop, then select **Connect to Server**... 
 2. In the **Connect to Server** window, type the following address for the DDC folder: 
 ```
-\\chss.datastore.ed.ac.uk\chss\sps\groups\DDC 
+smb://chss.datastore.ed.ac.uk/chss/sps/groups/DDC
 ``` 
 3. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
 
