@@ -26,6 +26,7 @@ U:\Datastore\CHSS\sps\groups\DDC
 or
 
 \\chss.datastore.ed.ac.uk\chss\sps\groups\DDC
+```
 
 4. Authenticate by entering ED\UUN (where 'UUN' is your University login name) and your corresponding password.
 
