@@ -129,7 +129,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">4</td>
                 <td>06-Feb-2019</td>
                 <td>Fieldwork and Presentation Prep</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week4-1.pptx" target="_blank">W4 Slides 1</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week4-1.pptx" target="_blank">W4 Slides 1</a><br /><a href="{{ site.baseurl }}/course_docs/aileen_boyle.pdf" target="_blank">Aileen Boyle Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
