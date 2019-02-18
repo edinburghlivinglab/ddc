@@ -28,7 +28,9 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * Spinzzi, C (2005) [The methodology of participatory design](https://repositories.lib.utexas.edu/bitstream/handle/2152/28277/SpinuzziTheMethodologyOfParticipatoryDesign.pdf), *Technical Communication*, 52(2), 163-174.
 * Druin, A (2002) [The role of children in the design of new technology](http://hcil2.cs.umd.edu/trs/99-23/99-23.pdf), Behaviour and information technology, 21(1), 1-25.
 * Grocki, M (2014) 	[How to Create a Customer Journey Map](http://uxmastery.com/how-to-create-a-customer-journey-map/)
-* HYYSALO, S (2003) Some Problems in the Traditional Approaches to Predicting the Use of a Technology-driven Invention, Innovation: The European Journal of Social Science Research, 16:2, 117-137, DOI: [10.1080/13511610304518](https://www.tandfonline.com/doi/abs/10.1080/13511610304518)
+* Steen, M. (2011). Tensions in human-centred design. CoDesign, 7(1), 45–60. http://doi.org/10.1080/15710882.2011.563314
+* BUUR, J., & MATTHEWS, B. (2008). PARTICIPATORY INNOVATION. International Journal of Innovation Management, 12(03), 255–273. http://doi.org/10.1142/S1363919608001996
+
 
 #### Designing for Change
 
