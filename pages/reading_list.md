@@ -19,7 +19,7 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * Greenpeace, [A crisis of convenience - The corporations behind the plastic pollution pandemic](https://www.greenpeace.org/international/publication/19007/a-crisis-of-convenience-the-corporations-behind-the-plastics-pollution-pandemic/)
 * WRAP, [A Roadmap to 2025 - The UK Plastics Pact](http://www.wrap.org.uk/content/the-uk-plastics-pact-roadmap-2025)
 
-#### Design Thinking and Participatory Design
+#### Participatory and Co-Design
 
 * Merholz, M (2013)[The Double Diamond Model of Product Definition and Design](http://www.peterme.com/2013/09/26/the-double-diamond-model-of-product-definition-and-design/)
 * [Open Design Now](http://opendesignnow.org/index.html%3Fp=405.html)
@@ -28,6 +28,7 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * Spinzzi, C (2005) [The methodology of participatory design](https://repositories.lib.utexas.edu/bitstream/handle/2152/28277/SpinuzziTheMethodologyOfParticipatoryDesign.pdf), *Technical Communication*, 52(2), 163-174.
 * Druin, A (2002) [The role of children in the design of new technology](http://hcil2.cs.umd.edu/trs/99-23/99-23.pdf), Behaviour and information technology, 21(1), 1-25.
 * Grocki, M (2014) 	[How to Create a Customer Journey Map](http://uxmastery.com/how-to-create-a-customer-journey-map/)
+* HYYSALO, S (2003) Some Problems in the Traditional Approaches to Predicting the Use of a Technology-driven Invention, Innovation: The European Journal of Social Science Research, 16:2, 117-137, DOI: [10.1080/13511610304518](https://www.tandfonline.com/doi/abs/10.1080/13511610304518)
 
 #### Designing for Change
 
