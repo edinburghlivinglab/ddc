@@ -36,6 +36,9 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * [Theory of Change](https://www.theoryofchange.org/what-is-theory-of-change/)
 * Design Justice: [Zines 1-3](http://designjusticenetwork.org/zine/)
 
+#### Thinking about Socio-technical Change
+*  Elizabeth Shove (2014) Putting practice into policy: reconfiguring questions of consumption and climate change, Contemporary Social Science, 9:4, 415-429, DOI: [10.1080/21582041.2012.692484](https://www.tandfonline.com/doi/full/10.1080/21582041.2012.692484?src=recsys)
+
 #### Ethics, Privacy and Data Management
 
 * Gray, D E (2014) [Research Ethics](https://www.learn.ed.ac.uk/bbcswebdav/pid-1708410-dt-content-rid-3168707_1/xid-3168707_1), Chapter 4, *Doing research in the real world*. Los Angeles, SAGE.
