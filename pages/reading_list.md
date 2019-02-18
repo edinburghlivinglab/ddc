@@ -30,6 +30,7 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * Grocki, M (2014) 	[How to Create a Customer Journey Map](http://uxmastery.com/how-to-create-a-customer-journey-map/)
 * Steen, M. (2011). Tensions in human-centred design. CoDesign, 7(1), 45–60. http://doi.org/10.1080/15710882.2011.563314
 * BUUR, J., & MATTHEWS, B. (2008). PARTICIPATORY INNOVATION. International Journal of Innovation Management, 12(03), 255–273. http://doi.org/10.1142/S1363919608001996
+* 15 ways to test you Minimal Viable PRoduct https://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/,  Christopher Bank  2014, The Next Web.
 
 
 #### Designing for Change
