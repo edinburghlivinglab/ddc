@@ -12,9 +12,9 @@ Double-click on the thumbnail to enter full-screen mode.
     <ul class="small-block-grid-2">
         <li>
             <div class="flex-video">
-                <iframe width="420" height="315" src="https://www.youtube.com/watch?v=zCRKvDyyHmI" frameborder="0" allowfullscreen>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zCRKvDyyHmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 	
-                </iframe>
+             
             </div>
         </li>   
         <li>
