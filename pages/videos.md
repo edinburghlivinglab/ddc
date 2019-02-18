@@ -14,10 +14,7 @@ Double-click on the thumbnail to enter full-screen mode.
             <div class="flex-video">
                 
                 	
-                </iframe>
-            </div>
-        </li>   
-        <li>
+             
             <div class="flex-video">
                 <iframe width="420" height="315" src="https://www.youtube.com/embed/JF2xaxjrQ7g" frameborder="0" allowfullscreen>
                 	
