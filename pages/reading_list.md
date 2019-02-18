@@ -40,6 +40,7 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 
 #### Thinking about Socio-technical Change
 *  Elizabeth Shove (2014) Putting practice into policy: reconfiguring questions of consumption and climate change, Contemporary Social Science, 9:4, 415-429, DOI: [10.1080/21582041.2012.692484](https://www.tandfonline.com/doi/full/10.1080/21582041.2012.692484?src=recsys)
+* Head, B. W., & Alford, J. (2015). Wicked Problems: Implications for Public Policy and Management. Administration and Society, 47(6), 711–739. http://doi.org/10.1177/0095399713481601
 
 #### Ethics, Privacy and Data Management
 
