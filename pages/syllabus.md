@@ -175,7 +175,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>27-Feb-2019</td>
                 <td>Focus Group Findings</td>
-                <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">    Slides</a><br />
+                <td><a href="{{ site.baseurl }}/course_docs/FG_analysis_slides_2019.pptx" target="_blank">    Slides</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDC_Focus_Groups_handout_2019.pdf" target="_blank">FG Analysis Guide</a>
                 </td>
                 <td>&nbsp;</td>
