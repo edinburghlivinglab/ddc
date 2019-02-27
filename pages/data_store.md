@@ -17,9 +17,16 @@ Once you have established a connection to the DataStore DDC folder, you should b
 
 ### Windows
 
+Use the full path to the folder on Windows when mapping the drive:
+
+\\chss.datastore.ed.ac.uk\chss\sps\groups\DDC
+
+You may then be asked for your login credentials. Enter your username in the format  ed\username  and your usual login password.
+
 1. Select **Start** > **Computer** > **Map network drive**.
 2. In the **Drive** list, click a drive letter. You can choose any available letter.
 3. In the **Folder** box, type the following address for the DDC folder:
+
 ```
 U:\Datastore\CHSS\sps\groups\DDC
 ```
