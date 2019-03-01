@@ -183,9 +183,10 @@ permalink: "/syllabus/"
             <tr>
                 <td>01-Mar-2019</td>
                 <td>Participatory and Values Based Design</td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a><br />
-                    <a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br />
-                    <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_Class_activity_DDC_2019.pdf">Class PD Activity</a><br />
+                 <a href="{{ site.baseurl }}/course_docs/Week6-2_Engaging_with_Users_and_PD_2019.pptxf">Slides</a><br />
+                    <a href="{{ site.baseurl }}/course_docs/PD_methods_DDC_2019.pdf" target="_blank">PD Methods</a><br />
+                    <a href="{{ site.baseurl }}/course_docs/PD_Planning_2019.pdf" target="_blank">PD Prep Questions</a></td>
                 <td>1. Participatory Design for, with and by communities, by DiSalvo, Clement, and Pipek (access through Learn)<br/>2. <a href="https://www.researchgate.net/publication/306107677_From_the_Technical_to_the_Political_Democratizing_Design_Thinking">From the Technical to the Political: Democratizing Design Thinking</a> by Staten et al.</td>
             </tr>
             <tr>            
