@@ -63,5 +63,10 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * Visualisations that make no sense: [WTF Visualizations](http://viz.wtf)
 * Tactical Tech [Guide to Visualisation Tools](https://visualisingadvocacy.org/resources/visualisationtools)
 * Resources for [Data Driven Journalism](http://datadrivenjournalism.net/resources)
-
  
+### Data Vis Tools and Tutorials
+* [Google Fusion Tables](https://fusiontables.google.com) 
+* [RAW](http://app.rawgraphs.io)  
+* [DataWrapper](https://app.datawrapper.de)
+* Benjamin Bach's list of [datavis tools](https://vishubblog.wordpress.com/tools/)
+* Miriam Posner's list of [datavis tools](https://docs.google.com/document/d/1Z-14hgZPMIiAzT6vx1mVg5l60zkRVU9EHgZgK9HHdU4/edit#)
