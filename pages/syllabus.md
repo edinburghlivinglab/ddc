@@ -207,7 +207,7 @@ permalink: "/syllabus/"
                 <td>13-Mar-2019</td>
                 <td>Participatory Design Workshop</td>
                 <td>&nbsp;</td>
-                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 98-116, 130-133</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>15-Mar-2019</td>
@@ -223,7 +223,7 @@ permalink: "/syllabus/"
                 <td>20-Mar-2019</td>
                 <td>Data Visualisation &amp; Advocacy</td>
                 <td>&nbsp;</td>
-                <td>&nbsp;</td>
+                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 98-116, 130-133</td>
             </tr>
             <tr>
                 <td>22-Mar-2019</td>
