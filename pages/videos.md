@@ -44,3 +44,5 @@ Double-click on the thumbnail to enter full-screen mode.
       
     </ul>
 </div>
+
+<iframe src="https://media.ed.ac.uk/embedplaylist/secure/embed/playlistId/0_0jl0rm5z/v2/1/uiConfId/32949671" width="740" height="330" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe>
