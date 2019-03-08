@@ -5,6 +5,13 @@ permalink: "/videos/"
 ---
 
 <div class="t30">
+<h2>Class Videos on University Media Hopper</h2>
+    <iframe src="https://media.ed.ac.uk/embedplaylist/secure/embed/playlistId/1_qv6u7z89/v2/1/uiConfId/32949671" width="740" height="330" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe>
+
+<h2> Useful videos on University Media Hopper</h2>
+<iframe src="https://media.ed.ac.uk/embedplaylist/secure/embed/playlistId/0_0jl0rm5z/v2/1/uiConfId/32949671" width="740" height="330" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe>
+
+<h2> Useful videos on Youtube</h2>
 
 <p>
 Double-click on the thumbnail to enter full-screen mode.
@@ -45,4 +52,3 @@ Double-click on the thumbnail to enter full-screen mode.
     </ul>
 </div>
 
-<iframe src="https://media.ed.ac.uk/embedplaylist/secure/embed/playlistId/0_0jl0rm5z/v2/1/uiConfId/32949671" width="740" height="330" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe>
