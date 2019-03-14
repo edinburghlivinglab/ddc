@@ -102,6 +102,8 @@
     url: "/datasets/"
   - title: "DataStore"
     url: "/data_store/"
+  - title: " Data Viz and Mapping Tools"
+    url: "/tools.md/"
 
 
 
