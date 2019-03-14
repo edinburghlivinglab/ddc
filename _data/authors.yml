@@ -5,10 +5,16 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-ewan: # replace this with your info
-  name: "Ewan Klein"
+james: # replace this with your info
+  name: "James Stewart"
   siterole: "Course Coordinator"
-  uri: http://homepages.inf.ed.ac.uk/ewan/
-  email: ewan@inf.ed.ac.uk
-  twitter: "@ewanhklein"
+  uri: 
+  email: j.k.stewart@ed.ac.uk
+  twitter: "@jamesks"
+morgan: # replace this with your info
+  name: "Morgan Currie"
+  siterole: "Course Coordinator"
+  uri: 
+  email: morgan.currie@ed.ac.uk
+  twitter: "@jamesks"
 # you can add more authors here
