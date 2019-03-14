@@ -1,4 +1,3 @@
-
 ###Data Vis Tools and Tutorials
 * [Google Fusion Tables](https://fusiontables.google.com) 
 * [RAW](http://app.rawgraphs.io)  
