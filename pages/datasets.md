@@ -18,7 +18,7 @@ permalink: "/datasets/"
 
 The following open data portals may contain datasets that are useful.
 
-* [data.gov.uk](https://data.gov.uk/data/search)
+* [data.gov.uk](https://data.gov.uk/data/search) This is the direct download of the [Office of National Statistics](https://www.ons.gov.uk/)
 * [statistics.gov.scot](http://statistics.gov.scot)
 * [Glasgow Open Data Portal](https://data.glasgow.gov.uk/dataset)
 * [Edinburgh Open Data Portal](http://data.edinburghopendata.info/dataset)
