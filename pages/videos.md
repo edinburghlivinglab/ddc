@@ -52,4 +52,10 @@ Double-click on the thumbnail to enter full-screen mode.
     </ul>
 </div>
 <h2>Other Relevant videos on Youtube</h2>
+<div class="flex-video">
+                <iframe width="420" height="315" src="https://www.youtube.com/playlist?list=PLgYVkkPI5EOcLBLtj7abLJi3LBSH_kCAO" frameborder="0" allowfullscreen>
+                    
+                </iframe>
+            </div>
+
 
