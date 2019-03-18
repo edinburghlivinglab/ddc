@@ -4,6 +4,7 @@
 * [DataWrapper](https://app.datawrapper.de)
 * Benjamin Bach's list of [datavis tools](https://vishubblog.wordpress.com/tools/)
 * Miriam Posner's list of [datavis tools](https://docs.google.com/document/d/1Z-14hgZPMIiAzT6vx1mVg5l60zkRVU9EHgZgK9HHdU4/edit#)
+* Make Timelines with https://time.graphics/ 
 
 * Read the blog on Office of National Statistics about their work developing visualisations of statistics [Visual.ONS](https://digitalblog.ons.gov.uk/2018/03/27/three-years-of-visual-ons-what-weve-learned/)
 * Check out [TacticalTech](https://tacticaltech.org/projects/visualisations/)'s great set of examples of visualisations for advocay and some of their tutorials
