@@ -1,3 +1,12 @@
+---
+layout: page-fullwidth
+title: "Tools"
+meta_title: "Tools"
+subheadline: ""
+teaser: ""
+permalink: "/tools/"
+---
+
 ## Data Vis Tools and Tutorials
 * [Google Fusion Tables](https://fusiontables.google.com) 
 * [RAW](http://app.rawgraphs.io)  
