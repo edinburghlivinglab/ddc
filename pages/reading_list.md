@@ -18,6 +18,7 @@ We recommend some of the following documents and websites, but the particular on
 supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads/Checking-out-on-plastics.pdf)
 * Greenpeace, [A crisis of convenience - The corporations behind the plastic pollution pandemic](https://www.greenpeace.org/international/publication/19007/a-crisis-of-convenience-the-corporations-behind-the-plastics-pollution-pandemic/)
 * WRAP, [A Roadmap to 2025 - The UK Plastics Pact](http://www.wrap.org.uk/content/the-uk-plastics-pact-roadmap-2025)
+* [University of Edinburgh Waste Strategy 2018/9-2021/22](https://www.ed.ac.uk/files/atoms/files/waste_strategy.pdf)
 
 #### Participatory and Co-Design
 
@@ -65,6 +66,7 @@ supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads
 * Resources for [Data Driven Journalism](http://datadrivenjournalism.net/resources)
  
 ### Data Vis Tools and Tutorials
+FOR MORE COMPLETE LIST SEE TOOLS PAGE or LEARN
 * [Google Fusion Tables](https://fusiontables.google.com) 
 * [RAW](http://app.rawgraphs.io)  
 * [DataWrapper](https://app.datawrapper.de)
