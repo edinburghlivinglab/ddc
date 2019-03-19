@@ -35,6 +35,8 @@ Geographic Information Systems are much more comprehensive tools for handling ge
 
 * [Free GIS tools](https://gisgeography.com/free-gis-software/)
 
+* TacticalTech [Maps for Advocacy](https://tacticaltech.org/projects/maps-for-advocacy-20082010/)
+
 ### Exercises
 * Try to extract some data from OpenStreetMap using overpass
 * Use one of the datasets on Datastore (under Class/mapping) or other data you have collected or found to create a mao on Mapbox
