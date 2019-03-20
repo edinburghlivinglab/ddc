@@ -14,9 +14,12 @@ permalink: "/tools/"
 * Benjamin Bach's list of [datavis tools](https://vishubblog.wordpress.com/tools/)
 * Miriam Posner's list of [datavis tools](https://docs.google.com/document/d/1Z-14hgZPMIiAzT6vx1mVg5l60zkRVU9EHgZgK9HHdU4/edit#)
 * Make Timelines with https://time.graphics/ 
+* [D3 Data Driven Documents](https://d3js.org/) More sophisticated and powerful set of tools for web based  visualisation of data
 
 * Read the blog on Office of National Statistics about their work developing visualisations of statistics [Visual.ONS](https://digitalblog.ons.gov.uk/2018/03/27/three-years-of-visual-ons-what-weve-learned/)
 * Check out [TacticalTech](https://tacticaltech.org/projects/visualisations/)'s great set of examples of visualisations for advocay and some of their tutorials
+* [Flowing Data](https://flowingdata.com/) a excellent blog on visualisation of data (Some free, some paid)
+
 
 ## Spatial Data, Maps and GIS
 Mapping tools enable you to show data on a map and customise the map.
