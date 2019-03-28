@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Video Materials"
+title: "Class Presentations 2019"
 permalink: "/classvideos2019/"
 ---
 
