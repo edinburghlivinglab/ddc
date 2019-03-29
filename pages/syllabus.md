@@ -199,7 +199,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>8-Mar-2019</td>
                 <td>Data Visualisation</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week7-2_part_1.pptx" target="_blank">Slides</a><br/>a href="{{ site.baseurl }}/course_docs/week7-2_part_2.pptx" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week7-2_part_1.pptx" target="_blank">Slides</a><br/><a href="{{ site.baseurl }}/course_docs/week7-2_part_2.pptx" target="_blank">Slides</a></td>
                 <td>1. Graphic Discovery by Wainer (access on Learn)<br/> 2. <a href="http://scihi.org/william-playfair-and-the-beginnings-of-infographics/">William Playfair and the beginnings of infographics</a></td>
             </tr>
             <tr>
