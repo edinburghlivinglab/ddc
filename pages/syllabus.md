@@ -193,20 +193,20 @@ permalink: "/syllabus/"
                 <td rowspan="2">7</td>
                 <td>06-Mar-2019</td>
                 <td>Finding and Using Existing Data</td>
-                <td>&nbsp;</td>
+                <td>a href="{{ site.baseurl }}/course_docs/week7-1_2019.pptx" target="_blank">Slides</a></td>
                 <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641802">Data-Driven, Networked Urbanism</a> by Rob Kitchin<br/><a href="https://link.springer.com/chapter/10.1007/978-981-13-2694-3_11">Data Flow in the Smart City: Open Data Versus the Commons</a> by Beckwith, et al</td>
             </tr>
             <tr>
                 <td>8-Mar-2019</td>
                 <td>Data Visualisation</td>
-                <td>&nbsp;</td>
+                <td>a href="{{ site.baseurl }}/course_docs/week7-2_part_1.pptx" target="_blank">Slides</a><br/>a href="{{ site.baseurl }}/course_docs/week7-2_part_2.pptx" target="_blank">Slides</a></td>
                 <td>1. Graphic Discovery by Wainer (access on Learn)<br/> 2. <a href="http://scihi.org/william-playfair-and-the-beginnings-of-infographics/">William Playfair and the beginnings of infographics</a></td>
             </tr>
             <tr>
                 <td rowspan="2">8</td>
                 <td>13-Mar-2019</td>
                 <td>Participatory Design Workshop</td>
-                <td>&nbsp;</td>
+                <td>a href="{{ site.baseurl }}/course_docs/week8-1.pptx" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -222,7 +222,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>20-Mar-2019</td>
                 <td>Data Visualisation &amp; Advocacy</td>
-                <td>&nbsp;</td>
+                <td>a href="{{ site.baseurl }}/course_docs/Week9-1.pptx" target="_blank">Slides</a></td>
                 <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a> pp. 98-116, 130-133</td>
             </tr>
             <tr>
