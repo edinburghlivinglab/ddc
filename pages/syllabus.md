@@ -193,7 +193,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">7</td>
                 <td>06-Mar-2019</td>
                 <td>Finding and Using Existing Data</td>
-                <td><Week9-1.pptxa href="{{ site.baseurl }}/course_docs/week7-1_2019.pptx" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week7-1_2019.pptx" target="_blank">Slides</a></td>
                 <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641802">Data-Driven, Networked Urbanism</a> by Rob Kitchin<br/><a href="https://link.springer.com/chapter/10.1007/978-981-13-2694-3_11">Data Flow in the Smart City: Open Data Versus the Commons</a> by Beckwith, et al</td>
             </tr>
             <tr>
