@@ -25,3 +25,20 @@ Project Presentation
 
 
 
+<div>
+    <div class="medium-panel">
+        <a href="https://transitionedinburgh.org.uk/">Transition Edinburgh</a> Plastic reduction
+    </div>
+      <div class="medium-panel">
+      <a href="https://www.shrubcoop.org/">The Shrub Swap and Reuse Hub</a> - clothes and remaking (Edinburgh Uni NGO spinout)
+    </div>
+    <div class="medium-panel">
+        <a href="https://edinburghforge.com/">The Forge</a> and Edinburgh Remakery local upcycling of materials (metal, electronics, clothes, furniture)
+    </div>
+    <div class="medium-panel">
+        <a href="https://onecherry.co.uk/">One Cherry</a> - Online second hand clothes platform (Edinburgh Uni commercial spinout)
+    </div>
+     <div class="medium-panel">
+        <a href="https://www.ed.ac.uk/about/sustainability/what-we-do/circular-economy">University of Edinburgh Sustainability Strategy</a>
+    </div>
+</div>
