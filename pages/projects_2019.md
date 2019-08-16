@@ -12,16 +12,17 @@ More content coming soon!
 # Group 1 Reducing tourism waste impact
 <div class="medium-panel">
 Team members
-
-Project Presentation
-</div>
-  
 * AGE WALDO 
 
 * NAJA SUHR 
 
 * PAULA ESPINOSA ALONSO
 * Tao Xu 
+
+Project Presentation
+</div>
+  
+
 
 
 
