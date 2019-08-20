@@ -15,11 +15,8 @@ More content coming soon!
   
 <ul>
 	<li>PAGE WALDO </li>
-
 	<li>NAJA SUHR </li>
-
 	<li>PAULA ESPINOSA ALONSO</li>
-
 	<li>Tao Xu </li>
 </ul>
 
@@ -35,9 +32,7 @@ More content coming soon!
 <ul>
 	<li>BEVIN BENSON</li>
 	<li>ASIA HICKEY</li>
-
 	<li>ALICE MAYHEW </li>
-
 	<li>MIRANDA WU</li>
 </ul>
  
