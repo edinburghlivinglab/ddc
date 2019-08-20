@@ -15,11 +15,8 @@ More content coming soon!
   
 <ul>
 	<li>PAGE WALDO </li>
-
 	<li>NAJA SUHR </li>
-
 	<li>PAULA ESPINOSA ALONSO</li>
-
 	<li>Tao Xu </li>
 </ul>
 
@@ -69,7 +66,7 @@ More content coming soon!
 <a class="button small" href="{{ site.baseurl }}/student_outputs_2019/Group 4 Final.pdf" target="_blank">Project Slides</a>
 </div>
 
-<h2>Group 5: Waste Management in Edinburgh/h2>
+<h2>Group 5: Waste Management in Edinburgh</h2>
 <div class="panel">
 <ul>
 	<li>ERIN DENHAM </li>
