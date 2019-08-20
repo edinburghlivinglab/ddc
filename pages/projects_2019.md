@@ -8,11 +8,11 @@ permalink: "/projects_2019/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1"> 
 
-More content coming soon!
+
 <h2>Group 1 Reducing tourism waste impact</h2>
 <div class="panel">
 
-  
+<p>Helping Tourists consume less plastics in Edinburgh</p>
 <ul>
 	<li>PAGE WALDO </li>
 	<li>NAJA SUHR </li>
