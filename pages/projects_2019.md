@@ -1,45 +1,48 @@
 ---
 layout: page-fullwidth
-title: "Student Projects"
+title: "Student Projects 2019"
 subheadline: "Spring 2019"
 teaser: ""
 permalink: "/projects_2019/"
 ---
 
-
+<div class="medium-8 medium-pull-4 columns" markdown="1"> 
 
 More content coming soon!
 ## Group 1 Reducing tourism waste impact
 <div class="panel">
-Team members
+<h5>Team members</h5>
   
-* AGE WALDO 
+<ul>
+	<li>PAGE WALDO </li>
 
-* NAJA SUHR 
+	<li>NAJA SUHR </li>
 
-* PAULA ESPINOSA ALONSO
+	<li>PAULA ESPINOSA ALONSO</li>
 
-* Tao Xu 
+	<li>Tao Xu </li>
+</ul>
 
-Project Presentation
+
+<a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a>
 
 </div>
 
 ## Group 2
 <div class="panel">
-Team members
+<h5>Team members</h5>
 
-* BEVIN BENSON
+<ul>
+	<li>BEVIN BENSON</li>
+	<li>ASIA HICKEY</li>
 
-* ASIA HICKEY
+	<li>ALICE MAYHEW </li>
 
-ALICE MAYHEW 
-
-* MIRANDA WU 
+	<li>MIRANDA WU</li>
+</ul>
+ 
 
 Project Presentation
 
 </div>
-
-
-
+</div>
