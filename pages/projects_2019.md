@@ -26,7 +26,7 @@ permalink: "/projects_2019/"
 	<li>PAGE WALDO </li>
 	<li>NAJA SUHR </li>
 	<li>PAULA ESPINOSA ALONSO</li>
-	<li>Tao Xu </li>
+	<li>TAO XU </li>
 </ul>
 
 
