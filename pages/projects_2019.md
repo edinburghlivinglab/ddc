@@ -21,7 +21,7 @@ More content coming soon!
 </ul>
 
 
-<a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a>
+<a class="button small" href="{{ site.baseurl }}/student_outputs_2019/Group 1 Final.pdf" target="_blank">Project Slides</a>
 
 </div>
 
