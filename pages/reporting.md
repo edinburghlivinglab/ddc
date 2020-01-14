@@ -9,9 +9,9 @@ permalink: "/reporting/"
 
 ## Key Dates
 
-**Design critique, team mini-presentations**: Class time, Wednesday, 22nd March 2019  
+**Design critique, team mini-presentations**: Class time, Wednesday, 21nd March 2019  
 **Team Design Development presentations** ([Assignment GP2]({{ site.baseurl }}/assignment_gp2/)): Class time, Wednesday, 27th March 2019  
-**Individual reports** (([Assignment R2]({{ site.baseurl }}/assignment_r2/)): due 16:00 Thursday, 4th April 2019 (not a joke!)
+**Individual reports** (([Assignment R2]({{ site.baseurl }}/assignment_r2/)): due 16:00 Thursday, 3th April 2020 
 
 ## Description
 
@@ -35,7 +35,7 @@ We're expecting your presentation to address the following three broad questions
 
 * How does your team propose to address this problem? Describe your proof-of-concept design idea. What is involved and how would it work? Convince us that your idea has the potential to solve the problem. 
 
-* How does your design idea connect to various circular economy policies, such as [Zero Waste Scotland's] (https://www.zerowastescotland.org.uk/circular-economy/circular-edinburgh)or the [University's] (https://www.ed.ac.uk/about/sustainability/what-we-do/circular-economy)?
+* How does your design idea connect to various Smart Campus strategiues ,  such as the [University's] (https://www.ed.ac.uk/about/sustainability/what-we-do/circular-economy)?
 
 In the presentation, your team needs to explain what data you collected (and/or retrieved from in existing datasets) and what kind of data it is. If asked, be ready to give details on how, where, and when it was collected. The answer to each broad question needs to clearly and explicitly state how the team’s actions and decisions were informed by data.
 
