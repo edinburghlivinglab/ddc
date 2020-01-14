@@ -25,13 +25,13 @@ you adopted.
 
 Below, we spell out what your team should achieve in order for your project to count as successful for DDC.
 
-###### Explore a sub-theme of circular economy and sustainability issues at the city level and propose a design-based solution to a current question or problem
+###### Explore a sub-theme of Smart Campus/Future University at the University of Edinburgh and propose a design-based solution to a current question or problem
 
 
 1. Over the course of the project, identify a clear question or problem within one DDC 
 sub-theme and propose an intervention to solve the problem or answer the question. 
 
-2. Using information from the world (e.g. stakeholder involvement, existing data, observation), be able to explain the current situation in Edinburgh with relation to the sub-theme and 
+2. Using information from the world (e.g. stakeholder involvement, existing data, observation), be able to explain the current situation in Edinburgh and the University with relation to the sub-theme and 
 problem, and from that information identify a potential problem or question on which to focus your 
 project.
 
@@ -52,7 +52,7 @@ team's particular question or solve the problem.
 2. Be able to show that you have used qualitative and quantitative data in the project, and have analysed and 
 presented them in an appropriate and relevant way that supports your design idea.
 
-3. Show an attempt to connect the group's problem choice and final design back to wider circular economy issues and policies (e.g. University and City Chamber).
+3. Show an attempt to connect the group's problem choice and final design back to wider circular economy issues and policies (e.g. part of the University, Student Assocation, University partners or neightbours).
 
 Relates to learning objectives:
 
