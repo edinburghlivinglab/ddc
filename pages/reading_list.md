@@ -10,11 +10,8 @@ We recommend some of the following documents and websites, but the particular on
 
 * Gray, D. E., 2004. Doing Research in the Real World. London. SAGE Publications.
 * Kitchin, R., 2014. The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences. SAGE.
-* Offenhuber, Dietmar, and Carlo Ratti, Waste Is Information: Infrastructure Legibility and Governance (MIT Press, 2017)
-* Ratti, Carlo, and Matthew Claudel, The City of Tomorrow: Sensors, Networks, Hackers, and the Future of Urban Life (Yale University Press, 2016)
-
-
-* [The City of Tomorrow](https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life) - Ch. 1 pp. 3-13 
+* Offenhuber, Dietmar, and Carlo Ratti, Waste Is Information: Infrastructure Legibility and Governance (MIT Press, 2017
+* Ratti, Carlo, and Matthew Claudel 2016, [The City of Tomorrow](https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life) Sensors, Networks, Hackers, and the Future of Urban Life (Yale University Press, 2016) Ch. 1 pp. 3-13 
 * Kenneth Cukier and Viktor Mayer-Schönberger, “[The Rise of Big Data](https://www.foreignaffairs.com/articles/2013-04-03/rise-big-data),” Foreign Affairs, May/June 2013, pp. 28-40. 
 * Oliver Bates and Adrian Friday. "Beyond Data in the Smart City: Repurposing Existing Campus IoT." IEEE Pervasive Computing (Volume: 16 , Issue: 2 , April-June 2017) 
 * Lisa Gitelman and Virginia Jackson, “[Introduction](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf),” in “Raw Data” is an Oxymoron, (Lisa Gitelman, ed.), pp. 1-14, The MIT Press, 2012. 
