@@ -29,7 +29,6 @@ You will be working with the University in the City as your focus, research area
 In order to narrow down the scope of what you do, you have the opportunity to work with a number of university organisions that will help you focus your research and design around their area of work.
 
  <div class="medium-panel">
- </div>
      <div class="medium-panel">
         <a href="https://www.ed.ac.uk/about/sustainability/what-we-do/circular-economy">University of Edinburgh Sustainability Strategy</a>
     </div>
