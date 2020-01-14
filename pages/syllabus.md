@@ -94,7 +94,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>17-Jan-2020</td>
                 <td>Investigating Smart Campus and University</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a><br/><
+                <td><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a>
              
     <ul>
 		<li>Ben Williamson, Chancellor's Fellow, Education and Edinburgh Futures Institute</li>
@@ -276,6 +276,4 @@ permalink: "/syllabus/"
     </table>
 </div>
 
-
- 
 
