@@ -32,7 +32,6 @@ permalink: "/syllabus/"
             <td>Every Friday</td>
             <td>Lister Learning and Teaching Centre room G.09</td>
         </tr>
-        
         <tr>
             <td>All other Wednesday class meetings</td>
             <td>Lister Learning and Teaching Centre room G.09</td>
