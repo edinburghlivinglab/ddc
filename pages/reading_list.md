@@ -7,18 +7,12 @@ permalink: "/reading_list/"
 
 We recommend some of the following documents and websites, but the particular ones that you choose will depend on the specific details of your project.
 
-#### Circular Economy Resources
+* Gitelman, L. (Ed.), 2013. Raw Data Is an Oxymoron. MIT Press.
+* Gray, D. E., 2004. Doing Research in the Real World. London. SAGE Publications.
+* Kitchin, R., 2014. The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences. SAGE.
+* Offenhuber, Dietmar, and Carlo Ratti, Waste Is Information: Infrastructure Legibility and Governance (MIT Press, 2017)
+* Ratti, Carlo, and Matthew Claudel, The City of Tomorrow: Sensors, Networks, Hackers, and the Future of Urban Life (Yale University Press, 2016)
 
-* [The Helen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources) - a website with many resources, including reports and activities
-* Zero Waste Scotland's [Circular Economy Report](http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
-* Mary Douglas, [Purity and Danger: An Analysis of Concepts of Pollution and Taboo](https://discovered.ed.ac.uk/primo-explore/search?query=any,contains,Mary%20Douglas%20purity%20%20and%20danger&search_scope=default_scope&sortby=date&vid=44UOE_VU2&facet=frbrgroupid,include,1310796064&offset=0)
-* The Helen MacArthur Foundation, [The New Plastics Economy: Rethinking the future of plastics & Catalysing action](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/NPEC-Hybrid_English_22-11-17_Digital.pdf) - a website with many resources, including reports and activities
-* Edinburgh Council Transport and Environment Committee,[Single-use plastics](www.edinburgh.gov.uk/download/meetings/id/58087/item_713_-_single_use_plastics)
-* Environmental Investigation Agency & Greenpeace, [Checking out on plastics – A survey of UK
-supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads/Checking-out-on-plastics.pdf)
-* Greenpeace, [A crisis of convenience - The corporations behind the plastic pollution pandemic](https://www.greenpeace.org/international/publication/19007/a-crisis-of-convenience-the-corporations-behind-the-plastics-pollution-pandemic/)
-* WRAP, [A Roadmap to 2025 - The UK Plastics Pact](http://www.wrap.org.uk/content/the-uk-plastics-pact-roadmap-2025)
-* [University of Edinburgh Waste Strategy 2018/9-2021/22](https://www.ed.ac.uk/files/atoms/files/waste_strategy.pdf)
 
 #### Participatory and Co-Design
 
@@ -72,3 +66,16 @@ FOR MORE COMPLETE LIST SEE TOOLS PAGE or LEARN
 * [DataWrapper](https://app.datawrapper.de)
 * Benjamin Bach's list of [datavis tools](https://vishubblog.wordpress.com/tools/)
 * Miriam Posner's list of [datavis tools](https://docs.google.com/document/d/1Z-14hgZPMIiAzT6vx1mVg5l60zkRVU9EHgZgK9HHdU4/edit#)
+
+#### Circular Economy Resources
+
+* [The Helen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/resources/learn/higher-education-resources) - a website with many resources, including reports and activities
+* Zero Waste Scotland's [Circular Economy Report](http://www.zerowastescotland.org.uk/sites/default/files/Circular_economy_Scotland_report.pdf)
+* Mary Douglas, [Purity and Danger: An Analysis of Concepts of Pollution and Taboo](https://discovered.ed.ac.uk/primo-explore/search?query=any,contains,Mary%20Douglas%20purity%20%20and%20danger&search_scope=default_scope&sortby=date&vid=44UOE_VU2&facet=frbrgroupid,include,1310796064&offset=0)
+* The Helen MacArthur Foundation, [The New Plastics Economy: Rethinking the future of plastics & Catalysing action](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/NPEC-Hybrid_English_22-11-17_Digital.pdf) - a website with many resources, including reports and activities
+* Edinburgh Council Transport and Environment Committee,[Single-use plastics](www.edinburgh.gov.uk/download/meetings/id/58087/item_713_-_single_use_plastics)
+* Environmental Investigation Agency & Greenpeace, [Checking out on plastics – A survey of UK
+supermarkets’ plastic Habits](https://eia-international.org/wp-content/uploads/Checking-out-on-plastics.pdf)
+* Greenpeace, [A crisis of convenience - The corporations behind the plastic pollution pandemic](https://www.greenpeace.org/international/publication/19007/a-crisis-of-convenience-the-corporations-behind-the-plastics-pollution-pandemic/)
+* WRAP, [A Roadmap to 2025 - The UK Plastics Pact](http://www.wrap.org.uk/content/the-uk-plastics-pact-roadmap-2025)
+* [University of Edinburgh Waste Strategy 2018/9-2021/22](https://www.ed.ac.uk/files/atoms/files/waste_strategy.pdf)
