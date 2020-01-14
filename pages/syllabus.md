@@ -104,6 +104,7 @@ permalink: "/syllabus/"
              
     
                 </td>
+		<td></td>
                 <td>
 
 <b>Campus Tracking Assignment</b>:
@@ -135,11 +136,11 @@ Make sure to note:</p>
                 <td><a href="{{ site.baseurl }}/course_docs/week2-1.pptx" target="_blank">W2 Slides 1</a><br/><a href="https://docs.google.com/presentation/d/1tYPugL8mu-sAKZjq8D2hB2_TxdHZMDpvIWA_lutMqoA/edit#slide=id.p">Anton Puzorjov</a><br/><a href="{{ site.baseurl }}/course_docs/design_ethnography_2019.pptx" target="_blank">Sampsa Hyysalo Slides</a></td>
                 <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
                     2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br />
-                    3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a> - Ch. 1 pp. 3-13
-                    4. Kenneth Cukier and Viktor Mayer-Schönberger, “<a href="https://www.foreignaffairs.com/articles/2013-04-03/rise-big-data">The Rise of Big Data</a>,” Foreign Affairs, May/June 2013, pp. 28-40.
-					5. Oliver Bates and Adrian Friday. "<a href="https://ieeexplore.ieee.org/abstract/document/7891136">Beyond Data in the Smart City: Repurposing Existing Campus IoT</a>." IEEE Pervasive Computing (Volume: 16 , Issue: 2 , April-June 2017)
-					6. Lisa Gitelman and Virginia Jackson, “<a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction</a>,” in “Raw Data” is an Oxymoron, (Lisa Gitelman, ed.), pp. 1-14, The MIT Press, 2012.
-					7. Shannon Mattern, <a href="https://placesjournal.org/article/methodolatry-and-the-art-of-measure/">Methodolatry and the Art of Measure. A New Wave of Urban Data Science</a>. Places Journal. Nov 2013
+                    3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>
+                    4. Kenneth Cukier and Viktor Mayer-Schönberger, 2013 “<a href="https://www.foreignaffairs.com/articles/2013-04-03/rise-big-data">The Rise of Big Data</a>,” Foreign Affairs
+					5. Oliver Bates and Adrian Friday.2017  "<a href="https://ieeexplore.ieee.org/abstract/document/7891136">Beyond Data in the Smart City: Repurposing Existing Campus IoT</a>." 
+					6. Lisa Gitelman and Virginia Jackson,2012 “<a href="https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf">Introduction in “Raw Data” is an Oxymoron</a>,”
+					7. Shannon Mattern, 2013<a href="https://placesjournal.org/article/methodolatry-and-the-art-of-measure/">Methodolatry and the Art of Measure. A New Wave of Urban Data Science</a>. 
                 </td>
                 <td></td>
             </tr>
@@ -271,9 +272,7 @@ Make sure to note:</p>
             		2. Sara McLafferty. Women and GIS: Geospatial Technologies and Feminist Geographies. Cartographia 40.4, 2005. (see Learn)</td>
             	   <td>See <a href="https://edinburghlivinglab.github.io/ddc/tools/">Resources</a></td>
             	   <td> 
-    Try to extract some data from OpenStreetMap using overpass
-    Use one of the datasets on Datastore (under Class/mapping) or other data you have collected or found to create a mao on Mapbox
-    Try Editing OSM directly.</td>
+    Editing OpenStreetMap, extracting data using overpass;  Using Data from Datstore or your own data using Mapbox</td>
 
             </tr>
             <tr>
@@ -290,9 +289,9 @@ Make sure to note:</p>
             <tr>
                 <td>20-Mar-2020</td>
                 <td>Dry-run presentations, peer feedback</td>
+                <td></td>
                 <td><a href="https://youtu.be/0iqIBDVMOyw">Guy Kawasaki on the 10:20:30 Pitch</a>
                 A set of <a href="https://www.youtube.com/playlist?list=PLgYVkkPI5EOcLBLtj7abLJi3LBSH_kCAO">Videos on Presentations</a> on Youtube </td>
-                <td>&nbsp;</td>
             <td></td>
             </tr>
             <tr>
