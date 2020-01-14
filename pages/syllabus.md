@@ -108,8 +108,7 @@ permalink: "/syllabus/"
 
 <b>Campus Tracking Assignment</b>:
 
-<p>Between Friday and Wednesday, start to record all the times you think the University is collecting data on you. Keep a log of this in paper or digital form.
-
+Between Friday and Wednesday, start to record all the times you think the University is collecting data on you. Keep a log of this in paper or digital form.
 Make sure to note:</p>
 
     <ul>
@@ -119,7 +118,6 @@ Make sure to note:</p>
 	<li>    any thoughts or feelings you have about it</li>
 	<li>    Bring this log with you to class on Wednesday next week</li>
 </ul>
-
 *If you want, you can add documentation through multimedia: photos, drawings, diagrams, additional notes.
 </td>
             </tr>
@@ -269,8 +267,8 @@ Make sure to note:</p>
                 <td>13-Mar-2020</td>
                 <td>Geographic Information System</td>
                 <td>&nbsp;</td>
-                <td>1. <a href="https://acme-journal.org/index.php/acme/article/view/723">An Introduction to Critical Cartography</a> by Crampton and Krygier</td>
-            		2. Sara McLafferty. Women and GIS: Geospatial Technologies and Feminist Geographies. Cartographia 40.4, 2005. (see Learn)
+                <td>1. <a href="https://acme-journal.org/index.php/acme/article/view/723">An Introduction to Critical Cartography</a> by Crampton and Krygier
+            		2. Sara McLafferty. Women and GIS: Geospatial Technologies and Feminist Geographies. Cartographia 40.4, 2005. (see Learn)</td>
             	   <td>See <a href="https://edinburghlivinglab.github.io/ddc/tools/">Resources</a></td>
             	   <td> 
     Try to extract some data from OpenStreetMap using overpass
