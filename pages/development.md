@@ -8,8 +8,8 @@ permalink: "/development/"
 
 ## Key Dates
 
-**Last day for data collection**: Friday 15th March 2019   
-**PD activity with stakeholders**: your team must schedule this between 1st March and 15th March 
+**Last day for data collection**: Friday 14th March 2020  
+**PD activity with stakeholders**: your team must schedule this between 28th Feb and 14th March 
 
 ## Description
 
@@ -25,6 +25,7 @@ In one sentence, the [Sprint]({{ site.baseurl }}/design_sprint/) was broad but s
 ### Determining *what to do is* central to Design Development!
 
 In Phases 0&ndash;2, different DDC teams will likely have been doing similar things and will have had specific instructions about how to proceed. In this phase your team has more choice and more responsibility for determining what you need to do.  It is up to each team to use their experience and the course resources from Phases 0&ndash;2 in order to develop their starting idea into a more detailed, proof-of-concept design. Relative to earlier phases, there will fewer specific instructions on what information to look for, or what to do.  Developing and justifying your team’s course of action &mdash; out of the many possibilities &mdash; is a main part of the work in this stage. For example, it might be very important for one team to be building and critiquing prototypes of a physical object, but that might make no sense for another team’s idea, which features a website.
+It is very important to do things and make things, but just produce ideas on paper.
 
 ### Participatory design with stakeholders
 
