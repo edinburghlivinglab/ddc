@@ -8,8 +8,8 @@ permalink: "/preparation/"
 
 ## Key Dates
 
-**Course start**: Wednesday, 16th January 2019  
-**Team formation**: Wednesday, 23rd January 2019
+**Course start**: Wednesday, 15th January 2020  
+**Team formation**: Wednesday, 22rd January 2020
 
 
 ## Description
