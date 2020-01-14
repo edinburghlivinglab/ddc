@@ -30,29 +30,29 @@ permalink: "/assessment_overview/"
             <tr>
                 <td>4</td>
                 <td><a href="{{ site.baseurl }}/assignment_gp1">GP1</a></td>
-                <td>9:00&ndash;9:50, Friday 08 Feb 2019</td>
+                <td>11:00&ndash;12:00, Friday 07 Feb 2019</td>
                 <td>Group Presentation</td>
                 <td>0%</td>
             </tr>
             <tr>
                 <td>5</td>
                 <td><a href="{{ site.baseurl }}/assignment_r1">R1</a></td>
-                <td>16:00, Wednesday 13 Feb 2019</td>
-                <td>Individual Report</td>
+                <td>Wednesday 12 Feb 2019</td>
+                <td>Individual Report - upload to Learn (not ELMA)</td>
                 <td>0%</td>
             </tr>
             <tr>
                 <td>11</td>
                 <td>GP2</td>
-                <td>9:00&ndash;9:50, Wednesday 27 March 2019</td>
-                <td>Group Presentation</td>
+                <td>11:00&ndash;13:00, Wednesday 25 March 2019</td>
+                <td>Group Presentation : The team representative should upload a version of the slides to Elma by 16:00, Friday 27th March</td>
                 <td>25%</td>
             </tr>
             <tr>
                 <td>12</td>
                 <td>R2</td>
-                <td>16:00, Thursday 4 April 2019</td>
-                <td>Individual Report</td>
+                <td>Noon, 2 April 2019</td>
+                <td>Individual Report to ELMA</td>
                 <td>75%</td>
             </tr>
         </tbody>
