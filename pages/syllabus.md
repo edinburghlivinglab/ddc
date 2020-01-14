@@ -93,11 +93,8 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>17-Jan-2020</td>
-                <td>Investigating Smart Campus and University
-                <ul>
-		<li>Ben Williamson, Chancellor's Fellow, Education and Edinburgh Futures Institute</li>
-		<li>Ian McNeil, Head of Infrastructure, Information & Learning Technology Services, School of Social and Political Sciences</li>
-		<li>Matthew Lawson, Student Engagement, Events and Reporting Programme Manager, Social Responsibility and Sustainability</li>
+                <td>Investigating the Smart Campus and Future University
+                Guests: Ben Williamson, Chancellor's Fellow, Education and EFI; Ian McNeil, Head of Infrastructure,  SSPS; Matthew Lawson, Social Responsibility and Sustainability</li>
 	</ul>
 	</td>
                 <td><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a>
@@ -108,18 +105,7 @@ permalink: "/syllabus/"
                 <td>
 
 <b>Campus Tracking Assignment</b>:
-
 Between Friday and Wednesday, start to record all the times you think the University is collecting data on you. Keep a log of this in paper or digital form.
-Make sure to note:</p>
-
-    <ul>
-	<li>what action prompts data collection</li>
-	<li>    who might be collecting it, why</li>
-	<li>    time and date</li>
-	<li>    any thoughts or feelings you have about it</li>
-	<li>    Bring this log with you to class on Wednesday next week</li>
-</ul>
-*If you want, you can add documentation through multimedia: photos, drawings, diagrams, additional notes.
 </td>
             </tr>
             <tr>
@@ -127,13 +113,11 @@ Make sure to note:</p>
                 <td>22-Jan-2020</td>
                 <td>Design thinking in the field
                 
-    <ul>
-	<li>Simon Chapple, ISG, IoT Programme</li>
-	<li>Bettinna Nissen, Lecturer, Design Informatics</li>
+    Guests: Simon Chapple, ISG, IoT Programme, Bettinna Nissen, Lecturer, Design Informatics
 </ul>
 
 </td>
-                <td><a href="{{ site.baseurl }}/course_docs/week2-1.pptx" target="_blank">W2 Slides 1</a><br/><a href="https://docs.google.com/presentation/d/1tYPugL8mu-sAKZjq8D2hB2_TxdHZMDpvIWA_lutMqoA/edit#slide=id.p">Anton Puzorjov</a><br/><a href="{{ site.baseurl }}/course_docs/design_ethnography_2019.pptx" target="_blank">Sampsa Hyysalo Slides</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week2-1.pptx" target="_blank">W2 Slides 1</a><br/><br/><a href="{{ site.baseurl }}/course_docs/design_ethnography_2019.pptx" target="_blank">Sampsa Hyysalo Slides</a></td>
                 <td>1. <a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
                     2. <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a><br />
                     3. <a href="https://www.scribd.com/document/384155848/The-City-of-Tomorrow-Sensors-Networks-Hackers-And-the-Future-of-Urban-Life">The City of Tomorrow</a>
@@ -155,7 +139,7 @@ Make sure to note:</p>
                 <td rowspan="2">3</td>
                 <td>29-Jan-2020</td>
                 <td>Research ethics
-                Guest: Charles Raab,  Professorial Fellow, Politics and International Relations</td>
+                Guest: Charles Raab,  Professorial Fellow, Politics </td>
                 <td><a href="{{ site.baseurl }}/course_docs/week3-1.pptx" target="_blank">W3 Slides 1</a><br/></td>
                 <td>1. <a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.<br />2.<a href="https://www.ed.ac.uk/records-management/policy/data-protection"> University of Edinburgh Data Protection Policy</a></td>
             <td></td>
@@ -174,7 +158,7 @@ Make sure to note:</p>
                 <td rowspan="2">4</td>
                 <td>05-Feb-2020</td>
                 <td>Fieldwork and Presentation Prep</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week4-1.pptx" target="_blank">W4 Slides 1</a><br /><a href="{{ site.baseurl }}/course_docs/aileen_boyle.pdf" target="_blank">Aileen Boyle Slides</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week4-1.pptx" target="_blank">W4 Slides 1</a><br /></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
