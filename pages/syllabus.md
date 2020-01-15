@@ -80,11 +80,11 @@ permalink: "/syllabus/"
                 <td>Course Overview</td>
                 <td><a href="{{ site.baseurl }}/course_docs/week1-1.pptx" target="_blank">Slides 1</a></td>
                 <td>Readings: 
-	<td>Yann Hengstenberg, Franziska Eckardt and Paul Benneworth. "Reflections from a living smart campus." Rooilijn, 50(1), 44-49.</td>
-	<td>William Villegas, Xavier Palacios-Pacheco, and Sergio Luján-Mora. ["Application of a Smart City Model to a Traditional University Campus with a Big Data Architecture: A Sustainable Smart Campus.](https://doi:10.3390/su11102857)</td>
-	 <td>Ben Williamson. "The hidden architecture of higher education: building a big data infrastructure for the ‘smarter university’" DOI 10.1186/s41239-018-0094-1 </td>
- <td>Additional: Knox, J. (2017). [Data power in education](https://doi.org/10.1177/1527476417690029) </td>
-</ul>
+	<br/>Yann Hengstenberg, Franziska Eckardt and Paul Benneworth. "Reflections from a living smart campus." Rooilijn, 50(1), 44-49.
+	<br/>William Villegas, Xavier Palacios-Pacheco, and Sergio Luján-Mora. ["Application of a Smart City Model to a Traditional University Campus with a Big Data Architecture: A Sustainable Smart Campus.](https://doi:10.3390/su11102857)
+	<br/>Ben Williamson. "The hidden architecture of higher education: building a big data infrastructure for the ‘smarter university’" DOI 10.1186/s41239-018-0094-1 
+ <br/>Additional: Knox, J. (2017). [Data power in education](https://doi.org/10.1177/1527476417690029) 
+
                 </td>
                <td></td>
             </tr>
