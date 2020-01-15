@@ -80,13 +80,10 @@ permalink: "/syllabus/"
                 <td>Course Overview</td>
                 <td><a href="{{ site.baseurl }}/course_docs/week1-1.pptx" target="_blank">Slides 1</a></td>
                 <td>Readings: 
-<ul>
-	1. Yann Hengstenberg, Franziska Eckardt and Paul Benneworth. "Reflections from a living smart campus." Rooilijn, 50(1), 44-49.
-
-	2. William Villegas, Xavier Palacios-Pacheco, and Sergio Luján-Mora. "Application of a Smart City Model to a Traditional University Campus with a Big Data Architecture: A Sustainable Smart Campus." Sustainability 2019, 11, 2857; doi:10.3390/su11102857 
-
-	 3. Ben Williamson. "The hidden architecture of higher education: building a big data infrastructure for the ‘smarter university’" International Journal of Educational Technology in Higher Education (2018) 15:12DOI 10.1186/s41239-018-0094-1 
- 4. Additional: Knox, J. (2017). [Data power in education](https://doi.org/10.1177/1527476417690029) 
+	<td>Yann Hengstenberg, Franziska Eckardt and Paul Benneworth. "Reflections from a living smart campus." Rooilijn, 50(1), 44-49.</td>
+	<td>William Villegas, Xavier Palacios-Pacheco, and Sergio Luján-Mora. ["Application of a Smart City Model to a Traditional University Campus with a Big Data Architecture: A Sustainable Smart Campus.](https://doi:10.3390/su11102857)</td>
+	 <td>Ben Williamson. "The hidden architecture of higher education: building a big data infrastructure for the ‘smarter university’" DOI 10.1186/s41239-018-0094-1 </td>
+ <td>Additional: Knox, J. (2017). [Data power in education](https://doi.org/10.1177/1527476417690029) </td>
 </ul>
                 </td>
                <td></td>
@@ -95,7 +92,7 @@ permalink: "/syllabus/"
                 <td>17-Jan-2020</td>
                 <td>Investigating the Smart Campus and Future University
                 Guests: Ben Williamson, Chancellor's Fellow, Education and EFI; Ian McNeil, Head of Infrastructure,  SSPS; Matthew Lawson, Social Responsibility and Sustainability</li>
-	</ul>
+
 	</td>
                 <td><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a>
              
