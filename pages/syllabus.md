@@ -67,7 +67,7 @@ permalink: "/syllabus/"
                 <th>Topic</th>
                 <th>Materials</th>
                 <th>Read/Watch before</th>
-                <th>Activities</th>
+          
             </tr>
         </thead>
         <tbody>
@@ -99,11 +99,8 @@ permalink: "/syllabus/"
     
                 </td>
 		<td></td>
-                <td>
-
-<b>Campus Tracking Assignment</b>:
-Between Friday and Wednesday, start to record all the times you think the University is collecting data on you. Keep a log of this in paper or digital form.
-</td>
+                
+		
             </tr>
             <tr>
                 <td rowspan="2">2</td>
@@ -252,9 +249,7 @@ Between Friday and Wednesday, start to record all the times you think the Univer
                 <td>1. <a href="https://acme-journal.org/index.php/acme/article/view/723">An Introduction to Critical Cartography</a> by Crampton and Krygier
             		2. Sara McLafferty. Women and GIS: Geospatial Technologies and Feminist Geographies. Cartographia 40.4, 2005. (see Learn)</td>
             	   <td>See <a href="https://edinburghlivinglab.github.io/ddc/tools/">Resources</a></td>
-            	   <td> 
-    Editing OpenStreetMap, extracting data using overpass;  Using Data from Datstore or your own data using Mapbox</td>
-
+            	  
             </tr>
             <tr>
                 <td rowspan="2">9</td>
