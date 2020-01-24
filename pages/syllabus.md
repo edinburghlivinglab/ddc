@@ -80,10 +80,10 @@ permalink: "/syllabus/"
                 <td>Course Overview</td>
                 <td><a href="{{ site.baseurl }}/course_docs/week1-1.pptx" target="_blank">Slides 1</a></td>
                 <td>Readings: 
-	<br/>Yann Hengstenberg, Franziska Eckardt and Paul Benneworth. "Reflections from a living smart campus." Rooilijn, 50(1), 44-49.
-	<br/>William Villegas, Xavier Palacios-Pacheco, and Sergio Luján-Mora. ["Application of a Smart City Model to a Traditional University Campus with a Big Data Architecture: A Sustainable Smart Campus.](https://doi:10.3390/su11102857)
-	<br/>Ben Williamson. "The hidden architecture of higher education: building a big data infrastructure for the ‘smarter university’" DOI 10.1186/s41239-018-0094-1 
- <br/>Additional: Knox, J. (2017). [Data power in education](https://doi.org/10.1177/1527476417690029) 
+	<br/>Hengstenberg, Eckardt and Benneworth. "<a href="http://archief.rooilijn.nl/download?type=document&amp;identifier=623901">Reflections from a living smart campus</a>." 
+	<br/>Villegas, Palacios-Pacheco, and Luján-Mora. "<a href="https://doi:10.3390/su11102857">Application of a Smart City Model to a Traditional University Campus with a Big Data Architecture: A Sustainable Smart Campus</a>
+	<br/>B. Williamson. "<a href="https://doi:10.1186/s41239-018-0094-1">The hidden architecture of higher education: building a big data infrastructure for the ‘smarter university</a>’"
+ <br/>Additional: Knox, J. (2017). <a href="https://doi.org/10.1177/1527476417690029">Data power in education</a>
 
                 </td>
                <td></td>
@@ -91,7 +91,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>17-Jan-2020</td>
                 <td>Investigating the Smart Campus and Future University
-                Guests: Ben Williamson, Chancellor's Fellow, Education and EFI; Ian McNeil, Head of Infrastructure,  SSPS; Matthew Lawson, Social Responsibility and Sustainability</li>
+                Guests: <a href="https://www.ed.ac.uk/profile/ben-williamson">Ben Williamson</a>, Chancellor's Fellow, Education and <a href="https://efi.ed.ac.uk/">EFI</a>; 
 
 	</td>
                 <td><a href="{{ site.baseurl }}/course_docs/week1-2.pptx" target="_blank">Slides 2</a>
@@ -105,10 +105,10 @@ permalink: "/syllabus/"
             <tr>
                 <td rowspan="2">2</td>
                 <td>22-Jan-2020</td>
-                <td>Design thinking in the field
+                <td>Introduction to 'Smart Campus'
                 
-    Guests: Simon Chapple, ISG, IoT Programme, Bettinna Nissen, Lecturer, Design Informatics
-</ul>
+    Guests: <a href="https://media.ed.ac.uk/media/Edinburgh+University+Internet+of+Things+%28IoT%29+Research+%26+Innovation+Service+-+Simon+Chapple/1_911q3hdv">Simon Chapple</a>, ISG, IoT Programme,  Ian McNeil, Head of Infrastructure,  SSPS; 
+
 
 </td>
                 <td><a href="{{ site.baseurl }}/course_docs/week2-1.pptx" target="_blank">W2 Slides 1</a><br/><br/><a href="{{ site.baseurl }}/course_docs/design_ethnography_2019.pptx" target="_blank">Sampsa Hyysalo Slides</a></td>
@@ -125,15 +125,17 @@ permalink: "/syllabus/"
             <tr>
                 <td>24-Jan-2020</td>
                 <td>Fieldwork Preparation
-                1. Dean Drobot, Head of Energy & Utilities Management, Estates Department</td>
+                1. Dean Drobot, <a href="https://www.ed.ac.uk/estates/what-we-do/energy/what-we-do">Head of Energy & Utilities Management</a>, Estates Department <br /> 2. <a href="https://www.ed.ac.uk/profile/sabine-rolle">Sabine Rolle</a>, CAHSS Dean for Undergraduate Studies</td>
                 <td><a href="{{ site.baseurl }}/course_docs/week2-2.pptx" target="_blank">W2 Slides 2</a></td>
                 <td>Optional Reading: 1. Waste is Information pp. 1-20 and 53-86 (access on Learn)<br />2. <a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_large.pdf">Visualising Advocacy</a> pp. 4-13, 23-31</td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
                 <td>29-Jan-2020</td>
-                <td>Research ethics
-                Guest: Charles Raab,  Professorial Fellow, Politics </td>
+                <td>Sustainable campus: <a href="https://www.ed.ac.uk/profile/matthew-lawson">Matthew Lawson</a>, <a href="https://www.ed.ac.uk/sustainability">Social Responsibility and Sustainability</a><br />
+                Design probes: <a href="https://www.designinformatics.org/person/bettina-nissen/">Bettina Nissen</a>, Lecturer, Design Informatics;
+                
+                Research ethics: <a href="http://www.pol.ed.ac.uk/people/academic_staff/raab_charles">Charles Raab</a>,  Professorial Fellow, Politics </td>
                 <td><a href="{{ site.baseurl }}/course_docs/week3-1.pptx" target="_blank">W3 Slides 1</a><br/></td>
                 <td>1. <a href="https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51135476460002466&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,doing%20research%20in%20the%20real%20world%20gray&sortby=date&facet=frbrgroupid,include,1311147115&offset=0">Collecting Primary Data: Observation</a>, from Doing Research in the Real World, pp 238-261.<br />2.<a href="https://www.ed.ac.uk/records-management/policy/data-protection"> University of Edinburgh Data Protection Policy</a></td>
             <td></td>
