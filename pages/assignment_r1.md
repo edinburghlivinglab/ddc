@@ -38,7 +38,7 @@ You can get hold of the source of this file [here]({{ site.baseurl }}/course_doc
 * Aim to produce a report of about 4 pages long, plus diagrams and references. If you want to write a bit more, that's OK but don't write more than 5 pages.
 * The remainder of this document is a skeleton that serves two functions:
    * It lists and explains the content that you should aim to include in your report.
-   * Since it is written in [Markdown syntax](https://daringfireball.net/projects/markdown/syntax), you can use it directly as the starting point for writing your report.
+   * (Since  the text below is written in [Markdown syntax](https://daringfireball.net/projects/markdown/syntax), you can use it directly as the starting point for writing your report, however you can just take the text in to a normal text or Word document if you prefer)
 
  ---
 
