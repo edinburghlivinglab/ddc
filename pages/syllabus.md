@@ -146,7 +146,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>31-Jan-2020</td>
                 <td>Fieldwork</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week3-2.pptx" target="_blank">W3 Slides 2</a></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week3-2-2020.pptx" target="_blank">W3 Slides 2</a></td>
                 <td>&nbsp;</td>
                 <td></td>
             </tr>
@@ -154,7 +154,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">4</td>
                 <td>05-Feb-2020</td>
                 <td>Fieldwork and Presentation Prep</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week4-1.pptx" target="_blank">W4 Slides 1</a><br /></td>
+                <td><a href="{{ site.baseurl }}/course_docs/week4-2-2020.pptx" target="_blank">W4 Slides</a><br /></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -171,7 +171,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">5</td>
                 <td>12-Feb-2020</td>
                 <td>Introduction to Data &amp; Focus Groups</td>
-                <td><a href="{{ site.baseurl }}/course_docs/week5-1.pptx" target="_blank">W5 Slides 1</a><br /><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br />
+                <td><a href="{{ site.baseurl }}/course_docs/week5-1-2020.pptx" target="_blank">W5 Slides 1</a><br /><a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br />
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a><br/>
                     <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a>
